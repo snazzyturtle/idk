@@ -1,4 +1,5 @@
 body {
-background: url('http://images.all-free-download.com/images/graphicthumb/vintage_floral_with_pink_background_vector_579827.jpg') no-repeat center center fixed;
-background-size: cover;
+color: #993333
+background: url('http://images.all-free-download.com/images/graphicthumb/vintage_floral_with_pink_background_vector_579827.jpg') 
+background-attachment: fixed
 }
