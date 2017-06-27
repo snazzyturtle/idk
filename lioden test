@@ -1,0 +1,4 @@
+body {
+background: url('http://365psd.com/images/previews/7ae/pink-floral-background-with-cherry-blossoms-free-34009.jpg') no-repeat center center fixed;
+background-size: cover;
+}
