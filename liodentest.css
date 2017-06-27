@@ -5,8 +5,10 @@ background: url('https://images.freecreatives.com/wp-content/uploads/2016/02/Hig
 background-size: cover;
 }
 .main {
-border-color: #609096;
+color: #CAE1E4;
+background: #609096;
 }
 .panel {
+color: #CAE1E4;
 background: #609096;
 }
