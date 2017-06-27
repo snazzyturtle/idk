@@ -1,17 +1,4 @@
-@media (min-width:768px) {
 body {
-background: url('http://images.all-free-download.com/images/graphicthumb/vintage_floral_with_pink_background_vector_579827.jpg') center center fixed !important;
-background-repeat: no-repeat;
-background-size: 100%;
-}
-}
-
-@media (max-width: 768px) {
-body {
-background: url('http://images.all-free-download.com/images/graphicthumb/vintage_floral_with_pink_background_vector_579827.jpg') center center fixed !important;
-background-repeat: no-repeat;
-background-size: 100%;
-width: auto !important;
-min-width: 600px !important;
-}
+background: url('http://images.all-free-download.com/images/graphicthumb/vintage_floral_with_pink_background_vector_579827.jpg') no-repeat center center fixed;
+background-size: cover;
 }
