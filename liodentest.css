@@ -20,6 +20,10 @@ background: #609096;
 color: #CAE1E4;
 background: #609096;
 }
+.navbar-default .navbar-nav > li > a {
+color: #CAE1E4;
+background: #609096;
+}
 .table .top {
 color: #CAE1E4;
 background: #609096;
