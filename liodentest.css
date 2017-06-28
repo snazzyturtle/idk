@@ -46,5 +46,9 @@ background: #719DBA;
 }
 .inner-table {
 color: #487998;
+background: #A0C3D9;
+}
+.inner-table .right {
+color: #487998;
 background: #719DBA;
 }
