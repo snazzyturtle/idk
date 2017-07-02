@@ -2,3 +2,67 @@ body {
 background: url('http://www.diyphotography.net/wordpress/wp-content/uploads/2016/10/astro_photography.jpg') no-repeat center center fixed;
 background-size: cover;
 }
+.main {
+color: #34008E;
+background: #A0C3D9;
+}
+.panel {
+color: #34008E;
+background: #719DBA;
+}
+.topbar {
+color: #34008E;
+background: #719DBA;
+}
+.navbar {
+color: #34008E;
+background: #719DBA;
+}
+.navbar-default .navbar-nav > li > a {
+color: #34008E;
+background: #719DBA;
+}
+.table .top {
+color: #34008E;
+background: #719DBA;
+}
+tr.right {
+color: #34008E;
+background: #719DBA;
+}
+.col-md-9 {
+color: #34008E;
+background: #A0C3D9;
+}
+.breadcrumb {
+color: #34008E;
+background: #719DBA;
+}
+td.right {
+color: #34008E;
+background: #719DBA;
+}
+.inner-table {
+color: #34008E;
+background: #A0C3D9;
+}
+.inner-table .right {
+color: #34008E;
+background: #CEE3F0;
+}
+.inner-table .left {
+color: #34008E;
+background: #719DBA;
+}
+.table .bottom {
+color: #34008E;
+background: #719DBA;
+} 
+#sparring .right-odd {
+color: #34008E;
+background: #719DBA;
+}
+#sparring .table .top {
+color: #34008E;
+background: #719DBA;
+}
