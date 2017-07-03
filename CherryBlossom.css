@@ -90,7 +90,7 @@ border-right: 1px solid #000;
 /* Sidebar */
   
 .sidebar {
-background: rgba(39, 51, 55, 0.36);
+background: rgba(200, 245, 212, 0.36);
 border: 0px solid #000;
 border-bottom: 1px solid #000;
 border-left: 1px solid #000;
@@ -98,7 +98,7 @@ color: #000;
 }
   
 .col-md-3 .panel {
-background: rgb(39, 51, 55);
+background: rgb(200, 245, 212);
 border: 1px solid #000;
 box-shadow: none;    
 }
