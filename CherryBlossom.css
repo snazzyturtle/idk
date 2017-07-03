@@ -130,14 +130,14 @@ background: none;
 }
  
 .alert-danger {
-color: #848887;
+color: #C4F0CD;
 background: rgb(85, 70, 62);
 border: 1px solid #000;
 }
  
 .alert-success {
 color: #000;
-background: rgb(178, 175, 169);
+background: rgb(200, 245, 212);
 border: 1px solid #000;
 }
  
