@@ -205,20 +205,7 @@ border-left: none;
 }
  
  
-/* Custom scrollbar - only works on chrome */
-::-webkit-scrollbar {
-width: 10px;
-}
-  
-::-webkit-scrollbar-track {
-background-color: #8d8f8e;
-}
-  
-::-webkit-scrollbar-thumb {
-background-color:  rgb(39, 51, 55);
-border-radius: 0px;
-border: none;
-}
+
  
 /* 
 CSS template originally created and presented by Kraft (#738/#1105)
