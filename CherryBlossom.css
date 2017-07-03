@@ -104,7 +104,7 @@ box-shadow: none;
 }
   
 .progress-bar {
-background: #92D6BB;
+background: #FFB3AC;
 }
   
 .progress {
@@ -116,7 +116,7 @@ border: 1px solid #000;
 /* Chat */
   
 .chat_light, .chat_dark {
-background: rgb(39, 51, 55);
+background: rgb(200, 245, 212);
 font-size: 11px;
 color: #000;
 }
