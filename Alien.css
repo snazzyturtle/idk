@@ -6,11 +6,11 @@ This comment must remain at the top in all cases - it will not be visible on fin
   
  
 body {
+Background: #000;
 background: url("https://s-media-cache-ak0.pinimg.com/736x/58/35/55/58355541c4fb030be31fc8b96171d0e0--alien-concept-art-alien-art.jpg") fixed;
 background-repeat: no-repeat;
 background-position: center;
 background-size: contain;
-Background: #000;
 color: #000;
 }
  
