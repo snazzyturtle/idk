@@ -26,7 +26,7 @@ border-bottom: 1px solid #000;
  
 /* Buttons */
 input[type="button"], input[type="submit"], input[type="submit"]:hover {
-background: #4448AB;
+background: #333149;
 color: #000;
 border: 1px solid #000;
 text-shadow: none;
@@ -70,7 +70,7 @@ box-shadow: none;
 }
   
 .navbar {
-background: #4448AB;
+background: #333149;
 border-bottom: 1px solid #000;
 color: #000;
 }
@@ -81,7 +81,7 @@ color: #000;
   
 .navbar-default .navbar-nav li a:hover {
 color: #000;
-background: #4448AB;
+background: #333149;
 border-left: 1px solid #000;
 border-right: 1px solid #000;
 } 
@@ -143,7 +143,7 @@ border: 1px solid #000;
 }
  
 .breadcrumb {
-background:  #4448AB;
+background:  #333149;
 font-size: 13px;
 border: 1px solid #000;
 }
@@ -172,7 +172,7 @@ border: 1px solid #000;
   
 .table, .item {
 border: 1px solid #000;
-background: #4448AB;
+background: #333149;
 border-collapse: separate;
 }
  
