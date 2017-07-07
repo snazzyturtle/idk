@@ -50,21 +50,21 @@ color: #000000;
 /* Topbar */
   
 .topbar {
-background: rgb(68, 72, 171);
+background: rgb(51, 49, 73);
 border: 1px solid #000;
 border-bottom-left-radius: 10px;
 border-bottom-right-radius: 10px;
 }
  
 .badge {
-background: rgb(68, 72, 171);
+background: rgb(51, 49, 73);
 border: 1px solid #000;
 }
   
 /* Navigational Bar */
   
 .main {
-background: rgba(68, 72, 171, 0.46);
+background: rgba(51, 49, 73, 0.46);
 border: 1px solid #000;
 box-shadow: none;
 }
@@ -91,7 +91,7 @@ border-right: 1px solid #000;
 /* Sidebar */
   
 .sidebar {
-background: rgba(68, 72, 171, 0.36);
+background: rgba(51, 49, 73, 0.36);
 border: 0px solid #000;
 border-bottom: 1px solid #000;
 border-left: 1px solid #000;
@@ -99,7 +99,7 @@ color: #000;
 }
   
 .col-md-3 .panel {
-background: rgb(68, 72, 171);
+background: rgb(51, 49, 73);
 border: 1px solid #000;
 box-shadow: none;    
 }
@@ -117,7 +117,7 @@ border: 1px solid #000;
 /* Chat */
   
 .chat_light, .chat_dark {
-background: rgb(68, 72, 171);
+background: rgb(51, 49, 73);
 font-size: 11px;
 color: #000;
 }
@@ -132,13 +132,13 @@ background: none;
  
 .alert-danger {
 color: #000;
-background: rgb(68, 72, 171);
+background: rgb(51, 49, 73);
 border: 1px solid #000;
 }
  
 .alert-success {
 color: #000;
-background: rgb(68, 72, 171);
+background: rgb(51, 49, 73);
 border: 1px solid #000;
 }
  
