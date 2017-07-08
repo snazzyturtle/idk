@@ -104,11 +104,11 @@ box-shadow: none;
 }
   
 .progress-bar {
-background: #968C13;
+background: #DB898F;
 }
   
 .progress {
-background: #EAAAAB;
+background: #FFD9C9;
 border: 1px solid #000;
 }
   
@@ -182,24 +182,24 @@ border: 0px solid #000;
  
 div .feature, .cave-grid, div .left, .mound-grid,  .table .bottom,  .table .top, .table th, .item-header, .item-footer {
 border: 0px solid #000;
-background: #968C13;
+background: #DB898F;
 color: #000;
 }
  
 .cave-grid, div .left, .mound-grid {
 border: 1px solid #000;
-background: #968C13;
+background: #DB898F;
 color: #000;
 }
  
 .table .left {
 border: 1px solid #000;
-background: #968C13;
+background: #DB898F;
 color: #000;
 }
  
 .inner-table .right {
-background: #EAAAAB;
+background: #FFD9C9;
 border: 1px solid #000;
 border-left: none;
 }
