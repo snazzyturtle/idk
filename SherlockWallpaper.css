@@ -92,7 +92,7 @@ box-shadow: none;
 }
   
 .progress-bar {
-background: #B3A17D;
+background: #674C32;
 }
   
 .progress {
@@ -170,19 +170,19 @@ border: 0px solid #000;
  
 div .feature, .cave-grid, div .left, .mound-grid,  .table .bottom,  .table .top, .table th, .item-header, .item-footer {
 border: 0px solid #000;
-background: #B3A17D;
+background: #674C32;
 color: #000;
 }
  
 .cave-grid, div .left, .mound-grid {
 border: 1px solid #000;
-background: #B3A17D;
+background: #674C32;
 color: #000;
 }
  
 .table .left {
 border: 1px solid #000;
-background: #B3A17D;
+background: #674C32;
 color: #000;
 }
  
