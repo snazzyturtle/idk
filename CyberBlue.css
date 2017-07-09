@@ -13,7 +13,7 @@ border-bottom: 1px solid #000;
 
 /* Buttons */
 input[type="button"], input[type="submit"], input[type="submit"]:hover {
-background: rgba(208, 208, 208, 0.59);
+background: rgba(0, 25, 25, 0.59);
 color: #000;
 border: 1px solid #000;
 text-shadow: none;
@@ -37,27 +37,27 @@ color: #000000;
 /* Topbar */
  
 .topbar {
-background: rgb(230, 230, 234);
+background: rgb(0, 25, 25);
 border: 1px solid #000;
 border-bottom-left-radius: 10px;
 border-bottom-right-radius: 10px;
 }
 
 .badge {
-background: rgb(165, 25, 5);
+background: rgb(0, 25, 25);
 border: 1px solid #000;
 }
  
 /* Navigational Bar */
  
 .main {
-background: rgba(255, 255, 255, 0.21);
+background: rgba(0, 25, 25, 0.21);
 border: 1px solid #000;
 box-shadow: none;
 }
  
 .navbar {
-background: rgba(231, 232, 237, 0.68);
+background: rgba(0, 25, 25, 0.68);
 border-bottom: 1px solid #000;
 color: #000;
 }
@@ -78,7 +78,7 @@ border-right: 1px solid #000;
 /* Sidebar */
  
 .sidebar {
-background: rgba(231, 231, 233, 0.81);
+background: rgba(0, 25, 25, 0.81);
 border: 0px solid #000;
 border-bottom: 1px solid #000;
 border-left: 1px solid #000;
@@ -86,13 +86,13 @@ color: #000;
 }
  
 .col-md-3 .panel {
-background: rgb(216, 216, 216);
+background: rgb(0, 25, 25);
 border: 1px solid #000;
 box-shadow: none;    
 }
  
 .progress-bar {
-background: #c5c5c5;
+background: #f7f7f7;
 }
  
 .progress {
@@ -104,7 +104,7 @@ border: 1px solid #000;
 /* Chat */
  
 .chat_light, .chat_dark {
-background: rgb(216, 216, 216);
+background: rgb(0, 25, 25);
 font-size: 11px;
 color: #000;
 }
@@ -119,18 +119,18 @@ background: none;
 
 .alert-danger {
 color: #000000;
-background: rgba(197, 197, 197, 0.49);
+background: rgba(0, 25, 25, 0.49);
 border: 1px solid #000;
 }
 
 .alert-success {
 color: #000;
-background: rgba(247, 247, 247, 0.59);
+background: rgba(0, 25, 25, 0.59);
 border: 1px solid #000;
 }
 
 .breadcrumb {
-background:  rgba(216, 216, 216, 0.62);
+background:  rgba(0, 25, 25, 0.62);
 font-size: 13px;
 border: 1px solid #000;
 }
@@ -159,7 +159,7 @@ border: 1px solid #000;
  
 .table, .item {
 border: 1px solid #000;
-background: rgba(247, 247, 247, 0.62);
+background: rgba(0, 25, 25, 0.62);
 border-collapse: separate;
 }
 
@@ -170,7 +170,7 @@ border: 0px solid #000;
 
 div .feature, .cave-grid, div .left, .mound-grid,  .table .bottom,  .table .top, .table th, .item-header, .item-footer {
 border: 0px solid #000;
-background: rgba(216, 216, 216, 0.64);
+background: rgba(0, 25, 25, 0.64);
 color: #000;
 }
 
@@ -182,29 +182,14 @@ color: #000;
 
 .table .left {
 border: 1px solid #000;
-background: rgba(216, 216, 216, 0.63);
+background: rgba(0, 25, 25, 0.63);
 color: #000;
 }
 
 .inner-table .right {
-background: rgba(255, 255, 255, 0.25);
+background: rgba(0, 25, 25, 0.25);
 border: 1px solid #000;
 border-left: none;
 }
 
 
-/* Custom scrollbar - only works on chrome */
-::-webkit-scrollbar {
-width: 10px;
-}
- 
-::-webkit-scrollbar-track {
-background-color: #ffffff;
-}
- 
-::-webkit-scrollbar-thumb {
-background-color:  rgb(220, 220, 220);
-border-radius: 0px;
-border: 1px solid #000;
-border-right: none;
-}
