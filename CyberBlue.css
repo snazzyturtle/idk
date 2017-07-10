@@ -14,7 +14,7 @@ border-bottom: 1px solid #000;
 /* Buttons */
 input[type="button"], input[type="submit"], input[type="submit"]:hover {
 background: rgba(0, 25, 25, 0.59);
-color: #000;
+color: #1DE1F8;
 border: 1px solid #000;
 text-shadow: none;
 font-weight: bold;
@@ -26,12 +26,12 @@ border-radius: 5px;
 /* Links */
  
 .table a:link, .table a:active, .table a:visited, .right a:link, .right a:active, .right a:visited, .bottom a:link, .bottom a:active, .bottom a:visited, .topbar a:link, .topbar a:visited, .topbar a:active, a:link, a:visited, a:active {
-color: #000000;
+color: #1DE1F8;
 }
  
 .table .top a:link, .table .top a:active, .table .top a:visited, .table th a:link, .table th a:active, .table th a:visited {
 border-bottom: 1px solid #000000;
-color: #000000;
+color: #1DE1F8;
 }
  
 /* Topbar */
@@ -59,15 +59,15 @@ box-shadow: none;
 .navbar {
 background: rgba(0, 25, 25, 0.68);
 border-bottom: 1px solid #000;
-color: #000;
+color: #1DE1F8;
 }
  
 .navbar-default .navbar-nav > li > a {
-color: #000;
+color: #1DE1F8;
 }
  
 .navbar-default .navbar-nav li a:hover {
-color: #000;
+color: #1DE1F8;
 background: #eae9ee;
 border-left: 1px solid #000;
 border-right: 1px solid #000;
@@ -106,7 +106,7 @@ border: 1px solid #000;
 .chat_light, .chat_dark {
 background: rgb(0, 25, 25);
 font-size: 11px;
-color: #000;
+color: #1DE1F8;
 }
 
 .chatContainer {
@@ -118,13 +118,13 @@ background: none;
 }
 
 .alert-danger {
-color: #000000;
+color: #1DE1F8;
 background: rgba(0, 25, 25, 0.49);
 border: 1px solid #000;
 }
 
 .alert-success {
-color: #000;
+color: #1DE1F8;
 background: rgba(0, 25, 25, 0.59);
 border: 1px solid #000;
 }
@@ -136,12 +136,12 @@ border: 1px solid #000;
 }
  
 .breadcrumb>.active {
-color: #000;
+color: #1DE1F8;
 }
  
 h1 small, h2, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 font-family: "Carter One";
-color: #000;
+color: #1DE1F8;
 }
  
 .col-md-9 {
@@ -171,19 +171,19 @@ border: 0px solid #000;
 div .feature, .cave-grid, div .left, .mound-grid,  .table .bottom,  .table .top, .table th, .item-header, .item-footer {
 border: 0px solid #000;
 background: rgba(0, 25, 25, 0.64);
-color: #000;
+color: #1DE1F8;
 }
 
 .cave-grid, div .left, .mound-grid {
 border: 1px solid #000;
 background: #d8d8d8;
-color: #000;
+color: #1DE1F8;
 }
 
 .table .left {
 border: 1px solid #000;
 background: rgba(0, 25, 25, 0.63);
-color: #000;
+color: #1DE1F8;
 }
 
 .inner-table .right {
