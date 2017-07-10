@@ -1,7 +1,7 @@
 body {background: url("https://s-media-cache-ak0.pinimg.com/originals/4c/2d/e5/4c2de5df7ec88fb93d5f89cd68600ddd.jpg") fixed;background-repeat: no-repeat;background-size: cover;color: #000;}
 
 .welcomeback, .white, .bottomlinks li a:hover, .bottomlinks li a {
-color: #000;
+color: #1DE1F8;
 }
 
 h1, h3 , .sidebar h3 {
@@ -176,7 +176,7 @@ color: #1DE1F8;
 
 .cave-grid, div .left, .mound-grid {
 border: 1px solid #000;
-background: #d8d8d8;
+background: #00080A;
 color: #1DE1F8;
 }
 
