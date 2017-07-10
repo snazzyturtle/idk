@@ -68,7 +68,7 @@ color: #000;
  
 .navbar-default .navbar-nav li a:hover {
 color: #000;
-background: #eae9ee;
+background: #F4F6F1;
 border-left: 1px solid #000;
 border-right: 1px solid #000;
 } 
@@ -96,7 +96,7 @@ background: #c5c5c5;
 }
  
 .progress {
-background: #f7f7f7;
+background: #F4F6F1;
 border: 1px solid #000;
 }
  
@@ -176,7 +176,7 @@ color: #000;
 
 .cave-grid, div .left, .mound-grid {
 border: 1px solid #000;
-background: #d8d8d8;
+background: #F4F6F1;
 color: #000;
 }
 
