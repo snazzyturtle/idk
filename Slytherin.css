@@ -68,7 +68,7 @@ color: #000;
  
 .navbar-default .navbar-nav li a:hover {
 color: #000;
-background: #F4F6F1;
+background: #F3FAF1;
 border-left: 1px solid #000;
 border-right: 1px solid #000;
 } 
@@ -92,11 +92,11 @@ box-shadow: none;
 }
  
 .progress-bar {
-background: #E8C4A5;
+background: #60C66B;
 }
  
 .progress {
-background: #F4F6F1;
+background: #F3FAF1;
 border: 1px solid #000;
 }
  
