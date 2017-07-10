@@ -13,7 +13,7 @@ border-bottom: 1px solid #000;
  
 /* Buttons */
 input[type="button"], input[type="submit"], input[type="submit"]:hover {
-background: #ECE49E;
+background: #7A624A;
 color: #000;
 border: 1px solid #000;
 text-shadow: none;
@@ -37,27 +37,27 @@ color: #000000;
 /* Topbar */
   
 .topbar {
-background: rgb(239, 228, 158);
+background: rgb(122, 98, 74);
 border: 1px solid #000;
 border-bottom-left-radius: 10px;
 border-bottom-right-radius: 10px;
 }
  
 .badge {
-background: rgb(239, 228, 158);
+background: rgb(122, 98, 74);
 border: 1px solid #000;
 }
   
 /* Navigational Bar */
   
 .main {
-background: rgba(239, 228, 158, 0.46);
+background: rgba(122, 98, 74, 0.46);
 border: 1px solid #000;
 box-shadow: none;
 }
   
 .navbar {
-background: #ECE49E;
+background: #7A624A;
 border-bottom: 1px solid #000;
 color: #000;
 }
@@ -68,7 +68,7 @@ color: #000;
   
 .navbar-default .navbar-nav li a:hover {
 color: #000;
-background: #ECE49E;
+background: #7A624A;
 border-left: 1px solid #000;
 border-right: 1px solid #000;
 } 
@@ -78,7 +78,7 @@ border-right: 1px solid #000;
 /* Sidebar */
   
 .sidebar {
-background: rgba(239, 228, 158, 0.36);
+background: rgba(122, 98, 74, 0.36);
 border: 0px solid #000;
 border-bottom: 1px solid #000;
 border-left: 1px solid #000;
@@ -86,7 +86,7 @@ color: #000;
 }
   
 .col-md-3 .panel {
-background: rgb(239, 228, 158);
+background: rgb(122, 98, 74);
 border: 1px solid #000;
 box-shadow: none;    
 }
@@ -104,7 +104,7 @@ border: 1px solid #000;
 /* Chat */
   
 .chat_light, .chat_dark {
-background: rgb(239, 228, 158);
+background: rgb(122, 98, 74);
 font-size: 11px;
 color: #000;
 }
@@ -119,18 +119,18 @@ background: none;
  
 .alert-danger {
 color: #000;
-background: rgb(239, 228, 158);
+background: rgb(122, 98, 74);
 border: 1px solid #000;
 }
  
 .alert-success {
 color: #000;
-background: rgb(239, 228, 158);
+background: rgb(122, 98, 74);
 border: 1px solid #000;
 }
  
 .breadcrumb {
-background:  #ECE49E;
+background:  #7A624A;
 font-size: 13px;
 border: 1px solid #000;
 }
@@ -159,7 +159,7 @@ border: 1px solid #000;
   
 .table, .item {
 border: 1px solid #000;
-background: #ECE49E;
+background: #7A624A;
 border-collapse: separate;
 }
  
