@@ -13,7 +13,7 @@ border-bottom: 1px solid #000;
 
 /* Buttons */
 input[type="button"], input[type="submit"], input[type="submit"]:hover {
-background: rgba(255, 255, 255, 0.21);
+background: rgba(196, 242, 235, 0.21);
 color: #000;
 border: 1px solid #000;
 text-shadow: none;
@@ -92,7 +92,7 @@ box-shadow: none;
 }
  
 .progress-bar {
-background: #c5c5c5;
+background: #6DA250;
 }
  
 .progress {
