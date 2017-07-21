@@ -68,7 +68,7 @@ color: #000;
  
 .navbar-default .navbar-nav li a:hover {
 color: #000;
-background: #eae9ee;
+background:rgba(255, 255, 255, 0.01);
 border-left: 1px solid #000;
 border-right: 1px solid #000;
 } 
@@ -92,11 +92,11 @@ box-shadow: none;
 }
  
 .progress-bar {
-background: #c5c5c5;
+background: rgba(255, 255, 255, 0.01);
 }
  
 .progress {
-background: #f7f7f7;
+background: rgba(255, 255, 255, 0.01);
 border: 1px solid #000;
 }
  
@@ -176,7 +176,7 @@ color: #000;
 
 .cave-grid, div .left, .mound-grid {
 border: 1px solid #000;
-background: #d8d8d8;
+background: rgba(255, 255, 255, 0.01);
 color: #000;
 }
 
