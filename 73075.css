@@ -86,13 +86,13 @@ color: #000;
 }
  
 .col-md-3 .panel {
-background: rgba(195, 226, 254, 0.21);
+background: rgba(58, 164, 251, 0.21);
 border: 1px solid #000;
 box-shadow: none;    
 }
  
 .progress-bar {
-background: #3AA4FB;
+background: #C7E6FE;
 }
  
 .progress {
@@ -159,7 +159,7 @@ border: 1px solid #000;
  
 .table, .item {
 border: 1px solid #000;
-background: rgba(195, 226, 254, 0.21);
+background: rgba(58, 164, 251, 0.21);
 border-collapse: separate;
 }
 
@@ -176,7 +176,7 @@ color: #000;
 
 .cave-grid, div .left, .mound-grid {
 border: 1px solid #000;
-background: #3AA4FB;
+background: #C7E6FE;
 color: #000;
 }
 
