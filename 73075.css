@@ -1,4 +1,20 @@
-body {background: url("http://i.imgur.com/zMJ7gXA.jpg") fixed;background-repeat: no-repeat;background-size: cover;color: #000;}
+@media (min-width:768px) {
+body {
+background: url('http://i.imgur.com/zMJ7gXA.jpg') center center fixed !important;
+background-repeat: no-repeat;
+background-size: 100%;
+}
+}
+
+@media (max-width: 768px) {
+body {
+background: url('http://i.imgur.com/zMJ7gXA.jpg') center center fixed !important;
+background-repeat: no-repeat;
+background-size: 100%;
+width: auto !important;
+min-width: 600px !important;
+}
+}http://i.imgur.com/zMJ7gXA.jpg
 
 .welcomeback, .white, .bottomlinks li a:hover, .bottomlinks li a {
 color: #000;
