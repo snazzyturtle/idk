@@ -3,6 +3,7 @@ body {
 background: url('http://data.whicdn.com/images/77923806/original.jpg') no-repeat center center fixed;
 background-size: cover;
 color: #000
+font-family: "Josefin Sans" !important;
 }
 }
 
@@ -11,6 +12,7 @@ body {
 background: url('http://data.whicdn.com/images/77923806/original.jpg') no-repeat center center fixed;
 background-size: cover;
 color: #000
+font-family: "Josefin Sans" !important;
 }
 }
 
@@ -20,7 +22,7 @@ color: #000;
 }
 
 h1, h3 , .sidebar h3 {
-font-family: Arial !important;
+font-family: "Josefin Sans" !important;
 text-align: left;
 color: #000;
 border-bottom: 1px solid #000;
@@ -35,6 +37,7 @@ text-shadow: none;
 font-weight: bold;
 font-size: 14px;
 border-radius: 5px;
+ font-family: "Josefin Sans" !important;
 }
  
  
@@ -42,11 +45,13 @@ border-radius: 5px;
  
 .table a:link, .table a:active, .table a:visited, .right a:link, .right a:active, .right a:visited, .bottom a:link, .bottom a:active, .bottom a:visited, .topbar a:link, .topbar a:visited, .topbar a:active, a:link, a:visited, a:active {
 color: #000000;
+ font-family: "Josefin Sans" !important;
 }
  
 .table .top a:link, .table .top a:active, .table .top a:visited, .table th a:link, .table th a:active, .table th a:visited {
 border-bottom: 1px solid #000000;
 color: #000000;
+ font-family: "Josefin Sans" !important;
 }
  
 /* Topbar */
@@ -56,11 +61,13 @@ background: rgba(180, 138, 238, 0.70);
 border: 1px solid #000;
 border-bottom-left-radius: 10px;
 border-bottom-right-radius: 10px;
+ font-family: "Josefin Sans" !important;
 }
 
 .badge {
 background: rgba(180, 138, 238, 0.21);
 border: 1px solid #000;
+ font-family: "Josefin Sans" !important;
 }
  
 /* Navigational Bar */
@@ -69,16 +76,19 @@ border: 1px solid #000;
 background: rgba(180, 138, 238, 0.21);
 border: 1px solid #000;
 box-shadow: none;
+ font-family: "Josefin Sans" !important;
 }
  
 .navbar {
 background: rgba(180, 138, 238, 0.21);
 border-bottom: 1px solid #000;
 color: #000;
+ font-family: "Josefin Sans" !important;
 }
  
 .navbar-default .navbar-nav > li > a {
 color: #000;
+ font-family: "Josefin Sans" !important;
 }
  
 .navbar-default .navbar-nav li a:hover {
@@ -86,6 +96,7 @@ color: #000;
 background: #B48AEE;
 border-left: 1px solid #000;
 border-right: 1px solid #000;
+ font-family: "Josefin Sans" !important;
 } 
  
  
@@ -98,21 +109,25 @@ border: 0px solid #000;
 border-bottom: 1px solid #000;
 border-left: 1px solid #000;
 color: #000;
+ font-family: "Josefin Sans" !important;
 }
  
 .col-md-3 .panel {
 background: rgba(180, 138, 238, 0.21);
 border: 1px solid #000;
 box-shadow: none;    
+ font-family: "Josefin Sans" !important;
 }
  
 .progress-bar {
 background: #B48AEE;
+ font-family: "Josefin Sans" !important;
 }
  
 .progress {
 background: #f7f7f7;
 border: 1px solid #000;
+ font-family: "Josefin Sans" !important;
 }
  
  
@@ -120,48 +135,56 @@ border: 1px solid #000;
  
 .chat_light, .chat_dark {
 background: rgba(180, 138, 238, 0.21);
+ font-family: "Josefin Sans" !important;
 font-size: 11px;
 color: #000;
 }
 
 .chatContainer {
 border: 1px solid #000;
+ font-family: "Josefin Sans" !important;
 }
  
 .userstolen {
 background: none;
+ font-family: "Josefin Sans" !important;
 }
 
 .alert-danger {
 color: #000000;
 background: rgba(180, 138, 238, 0.21);
 border: 1px solid #000;
+ font-family: "Josefin Sans" !important;
 }
 
 .alert-success {
 color: #000;
 background: rgba(180, 138, 238, 0.21);
 border: 1px solid #000;
+ font-family: "Josefin Sans" !important;
 }
 
 .breadcrumb {
 background:  rgba(180, 138, 238, 0.21);
 font-size: 13px;
 border: 1px solid #000;
+ font-family: "Josefin Sans" !important;
 }
  
 .breadcrumb>.active {
 color: #000;
+ font-family: "Josefin Sans" !important;
 }
  
 h1 small, h2, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
-font-family: "Carter One";
+font-family: "Josefin Sans" !important;
 color: #000;
 }
  
 .col-md-9 {
 background: none;
 border: 0px solid #000;
+ font-family: "Josefin Sans" !important;
 }
  
 /* Tables */
@@ -170,39 +193,46 @@ border: 0px solid #000;
 border-radius: 25px;
 overflow: hidden;
 border: 1px solid #000;
+ font-family: "Josefin Sans" !important;
 }
  
 .table, .item {
 border: 1px solid #000;
 background: rgba(180, 138, 238, 0.21);
 border-collapse: separate;
+ font-family: "Josefin Sans" !important;
 }
 
 .table .right, .table .right_odd {
 background: none;
 border: 0px solid #000;
+ font-family: "Josefin Sans" !important;
 }
 
 div .feature, .cave-grid, div .left, .mound-grid,  .table .bottom,  .table .top, .table th, .item-header, .item-footer {
 border: 0px solid #000;
 background: rgba(180, 138, 238, 0.21);
 color: #000;
+ font-family: "Josefin Sans" !important;
 }
 
 .cave-grid, div .left, .mound-grid {
 border: 1px solid #000;
 background: #B48AEE;
 color: #000;
+ font-family: "Josefin Sans" !important;
 }
 
 .table .left {
 border: 1px solid #000;
 background: rgba(180, 138, 238, 0.21);
 color: #000;
+ font-family: "Josefin Sans" !important;
 }
 
 .inner-table .right {
 background: rgba(180, 138, 238, 0.21);
 border: 1px solid #000;
 border-left: none;
+ font-family: "Josefin Sans" !important;
 }
