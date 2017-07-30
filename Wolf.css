@@ -18,20 +18,20 @@ min-width: 600px !important;
 
 
 .welcomeback, .white, .bottomlinks li a:hover, .bottomlinks li a {
-color: #000;
+color: #000000;
 }
 
 h1, h3 , .sidebar h3 {
 font-family: Arial !important;
 text-align: left;
-color: #000;
+color: #000000;
 border-bottom: 1px solid #000;
 }
 
 /* Buttons */
 input[type="button"], input[type="submit"], input[type="submit"]:hover {
 background: rgba(85, 106, 13, 0.21);
-color: #000;
+color: #000000;
 border: 1px solid #000;
 text-shadow: none;
 font-weight: bold;
@@ -55,36 +55,36 @@ color: #000000;
  
 .topbar {
 background: rgba(85, 106, 13, 0.70);
-border: 1px solid #000;
+border: 1px solid #000000;
 border-bottom-left-radius: 10px;
 border-bottom-right-radius: 10px;
 }
 
 .badge {
 background: rgba(85, 106, 13, 0.21);
-border: 1px solid #000;
+border: 1px solid #000000;
 }
  
 /* Navigational Bar */
  
 .main {
 background: rgba(85, 106, 13, 0.21);
-border: 1px solid #000;
+border: 1px solid #000000;
 box-shadow: none;
 }
  
 .navbar {
 background: rgba(85, 106, 13, 0.21);
 border-bottom: 1px solid #000;
-color: #000;
+color: #000000;
 }
  
 .navbar-default .navbar-nav > li > a {
-color: #000;
+color: #000000;
 }
  
 .navbar-default .navbar-nav li a:hover {
-color: #000;
+color: #000000;
 background: #556A0D;
 border-left: 1px solid #000;
 border-right: 1px solid #000;
@@ -99,7 +99,7 @@ background: rgba(85, 106, 13, 0.21);
 border: 0px solid #000;
 border-bottom: 1px solid #000;
 border-left: 1px solid #000;
-color: #000;
+color: #000000;
 }
  
 .col-md-3 .panel {
@@ -123,7 +123,7 @@ border: 1px solid #000;
 .chat_light, .chat_dark {
 background: rgba(85, 106, 13, 0.21);
 font-size: 11px;
-color: #000;
+color: #000000;
 }
 
 .chatContainer {
@@ -141,7 +141,7 @@ border: 1px solid #000;
 }
 
 .alert-success {
-color: #000;
+color: #000000;
 background: rgba(85, 106, 13, 0.21);
 border: 1px solid #000;
 }
@@ -153,12 +153,12 @@ border: 1px solid #000;
 }
  
 .breadcrumb>.active {
-color: #000;
+color: #000000;
 }
  
 h1 small, h2, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 font-family: "Carter One";
-color: #000;
+color: #000000;
 }
  
 .col-md-9 {
@@ -188,19 +188,19 @@ border: 0px solid #000;
 div .feature, .cave-grid, div .left, .mound-grid,  .table .bottom,  .table .top, .table th, .item-header, .item-footer {
 border: 0px solid #000;
 background: rgba(85, 106, 13, 0.21);
-color: #000;
+color: #000000;
 }
 
 .cave-grid, div .left, .mound-grid {
 border: 1px solid #000;
 background: #556A0D;
-color: #000;
+color: #000000;
 }
 
 .table .left {
 border: 1px solid #000;
 background: rgba(85, 106, 13, 0.21);
-color: #000;
+color: #000000;
 }
 
 .inner-table .right {
