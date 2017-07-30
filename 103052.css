@@ -16,12 +16,6 @@ min-width: 600px !important;
 }
 }
 
-div {
-    width: 300px;
-    border: 25px solid green;
-    padding: 25px;
-    margin: 25px;
-}
 
 .welcomeback, .white, .bottomlinks li a:hover, .bottomlinks li a {
 color: #000;
