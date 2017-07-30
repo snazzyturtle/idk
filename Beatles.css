@@ -1,20 +1,4 @@
-@media (min-width:768px) {
-body {
-background: url('http://3.bp.blogspot.com/-aOwtaSjDot8/UeerlkoXErI/AAAAAAAACh8/8Y9uXfv3NYg/s1600/1961_music_beatles_cavern_1961.jpg') center center fixed !important;
-background-repeat: no-repeat;
-background-size: 100%;
-}
-}
-
-@media (max-width: 768px) {
-body {
-background: url('http://3.bp.blogspot.com/-aOwtaSjDot8/UeerlkoXErI/AAAAAAAACh8/8Y9uXfv3NYg/s1600/1961_music_beatles_cavern_1961.jpg') center center fixed !important;
-background-repeat: no-repeat;
-background-size: 100%;
-width: auto !important;
-min-width: 600px !important;
-}
-}
+body {background: url("http://3.bp.blogspot.com/-aOwtaSjDot8/UeerlkoXErI/AAAAAAAACh8/8Y9uXfv3NYg/s1600/1961_music_beatles_cavern_1961.jpg") fixed;background-repeat: no-repeat;background-size: cover;color: #000;}
 
 
 .welcomeback, .white, .bottomlinks li a:hover, .bottomlinks li a {
