@@ -163,7 +163,7 @@ border: 1px solid #000;
  
 .table, .item {
 border: 1px solid #000;
-background: #A29C93;
+background: #706B69;
 border-collapse: separate;
 }
 
@@ -186,12 +186,12 @@ color: #000;
 
 .table .left {
 border: 1px solid #000;
-background: #706B69;
+background: #A29C93;
 color: #000;
 }
 
 .inner-table .right {
-background: #706B69;
+background: #A29C93;
 border: 1px solid #000;
 border-left: none;
 }
