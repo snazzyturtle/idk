@@ -236,3 +236,11 @@ border: 1px solid #000;
 border-left: none;
 font-family: "Josefin Sans", Futura, sans !important;
 }
+
+@font-face{
+ font-family: "Josefin Sans", Futura, sans !important;
+}
+
+p{
+ font-family: "Josefin Sans", Futura, sans !important;
+}
