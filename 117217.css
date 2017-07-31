@@ -2,7 +2,7 @@
 body {
 background: url('http://data.whicdn.com/images/77923806/original.jpg') no-repeat center center fixed;
 background-size: cover;
-font-family: Futura, sans !important;
+font-family: "Josefin Sans", Futura, sans;
 color: #000
 }
 }
@@ -11,7 +11,7 @@ color: #000
 body {
 background: url('http://data.whicdn.com/images/77923806/original.jpg') no-repeat center center fixed;
 background-size: cover;
-font-family: Futura, sans !important;
+font-family: "Josefin Sans", Futura, sans;
 color: #000
 }
 }
@@ -22,7 +22,7 @@ color: #000;
 }
 
 h1, h3 , .sidebar h3 {
-font-family: Futura, sans !important;
+font-family: "Josefin Sans", Futura, sans;
 text-align: left;
 color: #000;
 border-bottom: 1px solid #000;
@@ -37,7 +37,7 @@ text-shadow: none;
 font-weight: bold;
 font-size: 14px;
 border-radius: 5px;
-font-family: Futura, sans !important;
+font-family: "Josefin Sans", Futura, sans;
 }
  
  
@@ -45,13 +45,13 @@ font-family: Futura, sans !important;
  
 .table a:link, .table a:active, .table a:visited, .right a:link, .right a:active, .right a:visited, .bottom a:link, .bottom a:active, .bottom a:visited, .topbar a:link, .topbar a:visited, .topbar a:active, a:link, a:visited, a:active {
 color: #000000;
-font-family: Futura, sans !important;
+font-family: "Josefin Sans", Futura, sans;
 }
  
 .table .top a:link, .table .top a:active, .table .top a:visited, .table th a:link, .table th a:active, .table th a:visited {
 border-bottom: 1px solid #000000;
 color: #000000;
- font-family: Futura, sans !important;
+ font-family: "Josefin Sans", Futura, sans;
 }
  
 /* Topbar */
@@ -61,13 +61,13 @@ background: rgba(180, 138, 238, 0.70);
 border: 1px solid #000;
 border-bottom-left-radius: 10px;
 border-bottom-right-radius: 10px;
-font-family: Futura, sans !important;
+font-family: "Josefin Sans", Futura, sans;
 }
 
 .badge {
 background: rgba(180, 138, 238, 0.21);
 border: 1px solid #000;
-font-family: Futura, sans !important;
+font-family: "Josefin Sans", Futura, sans;
 }
  
 /* Navigational Bar */
@@ -76,19 +76,19 @@ font-family: Futura, sans !important;
 background: rgba(180, 138, 238, 0.21);
 border: 1px solid #000;
 box-shadow: none;
-font-family: Futura, sans !important;
+font-family: "Josefin Sans", Futura, sans;
 }
  
 .navbar {
 background: rgba(180, 138, 238, 0.21);
 border-bottom: 1px solid #000;
 color: #000;
-font-family: Futura, sans !important;
+font-family: "Josefin Sans", Futura, sans;
 }
  
 .navbar-default .navbar-nav > li > a {
 color: #000;
-font-family: Futura, sans !important;
+font-family: "Josefin Sans", Futura, sans;
 }
  
 .navbar-default .navbar-nav li a:hover {
@@ -96,7 +96,7 @@ color: #000;
 background: #B48AEE;
 border-left: 1px solid #000;
 border-right: 1px solid #000;
-font-family: Futura, sans !important;
+font-family: "Josefin Sans", Futura, sans;
 } 
  
  
@@ -109,25 +109,25 @@ border: 0px solid #000;
 border-bottom: 1px solid #000;
 border-left: 1px solid #000;
 color: #000;
-font-family: Futura, sans !important;
+font-family: "Josefin Sans", Futura, sans;
 }
  
 .col-md-3 .panel {
 background: rgba(180, 138, 238, 0.21);
 border: 1px solid #000;
 box-shadow: none;    
-font-family: Futura, sans !important;
+font-family: "Josefin Sans", Futura, sans;
 }
  
 .progress-bar {
 background: #B48AEE;
-font-family: Futura, sans !important;
+font-family: "Josefin Sans", Futura, sans;
 }
  
 .progress {
 background: #f7f7f7;
 border: 1px solid #000;
-font-family: Futura, sans !important;
+font-family: "Josefin Sans", Futura, sans;
 }
  
  
@@ -135,56 +135,56 @@ font-family: Futura, sans !important;
  
 .chat_light, .chat_dark {
 background: rgba(180, 138, 238, 0.21);
-font-family: Futura, sans !important;
+font-family: "Josefin Sans", Futura, sans;
 font-size: 11px;
 color: #000;
 }
 
 .chatContainer {
 border: 1px solid #000;
-font-family: Futura, sans !important;
+font-family: "Josefin Sans", Futura, sans;
 }
  
 .userstolen {
 background: none;
-font-family: Futura, sans !important;
+font-family: "Josefin Sans", Futura, sans;
 }
 
 .alert-danger {
 color: #000000;
 background: rgba(180, 138, 238, 0.21);
 border: 1px solid #000;
-font-family: Futura, sans !important;
+font-family: "Josefin Sans", Futura, sans;
 }
 
 .alert-success {
 color: #000;
 background: rgba(180, 138, 238, 0.21);
 border: 1px solid #000;
-font-family: Futura, sans !important;
+font-family: "Josefin Sans", Futura, sans;
 }
 
 .breadcrumb {
 background:  rgba(180, 138, 238, 0.21);
 font-size: 13px;
 border: 1px solid #000;
- font-family: Futura, sans !important;
+ font-family: "Josefin Sans", Futura, sans;
 }
  
 .breadcrumb>.active {
 color: #000;
-font-family: Futura, sans !important;
+font-family: "Josefin Sans", Futura, sans;
 }
  
 h1 small, h2, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
-font-family: Futura, sans !important;
+font-family: "Josefin Sans", Futura, sans;
 color: #000;
 }
  
 .col-md-9 {
 background: none;
 border: 0px solid #000;
-font-family: Futura, sans !important;
+font-family: "Josefin Sans", Futura, sans;
 }
  
 /* Tables */
@@ -193,54 +193,54 @@ font-family: Futura, sans !important;
 border-radius: 25px;
 overflow: hidden;
 border: 1px solid #000;
-font-family: Futura, sans !important;
+font-family: "Josefin Sans", Futura, sans;
 }
  
 .table, .item {
 border: 1px solid #000;
 background: rgba(180, 138, 238, 0.21);
 border-collapse: separate;
-font-family: Futura, sans !important;
+font-family: "Josefin Sans", Futura, sans;
 }
 
 .table .right, .table .right_odd {
 background: none;
 border: 0px solid #000;
-font-family: Futura, sans !important;
+font-family: "Josefin Sans", Futura, sans;
 }
 
 div .feature, .cave-grid, div .left, .mound-grid,  .table .bottom,  .table .top, .table th, .item-header, .item-footer {
 border: 0px solid #000;
 background: rgba(180, 138, 238, 0.21);
 color: #000;
-font-family: Futura, sans !important;
+font-family: "Josefin Sans", Futura, sans;
 }
 
 .cave-grid, div .left, .mound-grid {
 border: 1px solid #000;
 background: #B48AEE;
 color: #000;
-font-family: Futura, sans !important;
+font-family: "Josefin Sans", Futura, sans;
 }
 
 .table .left {
 border: 1px solid #000;
 background: rgba(180, 138, 238, 0.21);
 color: #000;
-font-family: Futura, sans !important;
+font-family: "Josefin Sans", Futura, sans;
 }
 
 .inner-table .right {
 background: rgba(180, 138, 238, 0.21);
 border: 1px solid #000;
 border-left: none;
-font-family: Futura, sans !important;
+font-family: "Josefin Sans", Futura, sans;
 }
 
 @font-face{
- font-family: Futura, sans !important;
+ font-family: "Josefin Sans", Futura, sans;
 }
 
 p{
- font-family: Futura, sans !important;
+ font-family: "Josefin Sans", Futura, sans;
 }
