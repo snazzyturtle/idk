@@ -1,0 +1,223 @@
+body {background: url("http://cdn.wallpapersafari.com/22/4/1gduj5.jpg") fixed;background-repeat: no-repeat;background-size: cover;color: #000;}
+
+.welcomeback, .white, .bottomlinks li a:hover, .bottomlinks li a {
+color: #000;
+font-family: "Comic Sans";
+}
+
+h1, h3 , .sidebar h3 {
+font-family: "Comic Sans" !important;
+text-align: left;
+color: #000;
+border-bottom: 1px solid #000;
+}
+
+/* Buttons */
+input[type="button"], input[type="submit"], input[type="submit"]:hover {
+background: rgba(255, 0, 229, 0.21);
+color: #000;
+border: 1px solid #000;
+text-shadow: none;
+font-weight: bold;
+font-size: 14px;
+border-radius: 5px;
+font-family: "Comic Sans";
+}
+ 
+ 
+/* Links */
+ 
+.table a:link, .table a:active, .table a:visited, .right a:link, .right a:active, .right a:visited, .bottom a:link, .bottom a:active, .bottom a:visited, .topbar a:link, .topbar a:visited, .topbar a:active, a:link, a:visited, a:active {
+color: #000000;
+font-family: "Comic Sans";
+}
+ 
+.table .top a:link, .table .top a:active, .table .top a:visited, .table th a:link, .table th a:active, .table th a:visited {
+border-bottom: 1px solid #000000;
+color: #000000;
+font-family: "Comic Sans";
+}
+ 
+/* Topbar */
+ 
+.topbar {
+background: rgba(255, 0, 229, 0.21);
+border: 1px solid #000;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+font-family: "Comic Sans";
+}
+
+.badge {
+background: rgba(255, 0, 229, 0.21);
+border: 1px solid #000;
+font-family: "Comic Sans";
+}
+ 
+/* Navigational Bar */
+ 
+.main {
+background: rgba(255, 0, 229, 0.21);
+border: 1px solid #000;
+box-shadow: none;
+font-family: "Comic Sans";
+}
+ 
+.navbar {
+background: rgba(255, 0, 229, 0.21);
+border-bottom: 1px solid #000;
+color: #000;
+font-family: "Comic Sans";
+}
+ 
+.navbar-default .navbar-nav > li > a {
+color: #000;
+font-family: "Comic Sans";
+}
+ 
+.navbar-default .navbar-nav li a:hover {
+color: #000;
+background: #ff00e5;
+border-left: 1px solid #000;
+border-right: 1px solid #000;
+font-family: "Comic Sans";
+} 
+ 
+ 
+ 
+/* Sidebar */
+ 
+.sidebar {
+background: rgba(255, 0, 229, 0.21);
+border: 0px solid #000;
+border-bottom: 1px solid #000;
+border-left: 1px solid #000;
+color: #000;
+font-family: "Comic Sans";
+}
+ 
+.col-md-3 .panel {
+background: rgba(255, 0, 229, 0.21);
+border: 1px solid #000;
+box-shadow: none;  
+font-family: "Comic Sans";
+}
+ 
+.progress-bar {
+background: #ff00e5;
+font-family: "Comic Sans";
+}
+ 
+.progress {
+background: #c3ff00;
+border: 1px solid #000;
+font-family: "Comic Sans";
+}
+ 
+ 
+/* Chat */
+ 
+.chat_light, .chat_dark {
+background: rgba(255, 0, 229, 0.21);
+font-size: 11px;
+color: #000;
+font-family: "Comic Sans";
+}
+
+.chatContainer {
+border: 1px solid #000;
+font-family: "Comic Sans";
+}
+ 
+.userstolen {
+background: none;
+font-family: "Comic Sans";
+}
+
+.alert-danger {
+color: #000000;
+background: rgba(255, 0, 229, 0.21);
+border: 1px solid #000;
+font-family: "Comic Sans";
+}
+
+.alert-success {
+color: #000;
+background: rgba(255, 0, 229, 0.21);
+border: 1px solid #000;
+font-family: "Comic Sans";
+}
+
+.breadcrumb {
+background:  rgba(255, 0, 229, 0.21);
+font-size: 13px;
+border: 1px solid #000;
+font-family: "Comic Sans";
+}
+ 
+.breadcrumb>.active {
+color: #000;
+font-family: "Comic Sans";
+}
+ 
+h1 small, h2, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+font-family: "Carter One";
+color: #000;
+font-family: "Comic Sans";
+}
+ 
+.col-md-9 {
+background: none;
+border: 0px solid #000;
+font-family: "Comic Sans";
+}
+ 
+/* Tables */
+ 
+#lion_image {
+border-radius: 25px;
+overflow: hidden;
+border: 1px solid #000;
+font-family: "Comic Sans";
+}
+ 
+.table, .item {
+border: 1px solid #000;
+background: rgba(255, 0, 229, 0.21);
+border-collapse: separate;
+font-family: "Comic Sans";
+}
+
+.table .right, .table .right_odd {
+background: none;
+border: 0px solid #000;
+font-family: "Comic Sans";
+}
+
+div .feature, .cave-grid, div .left, .mound-grid,  .table .bottom,  .table .top, .table th, .item-header, .item-footer {
+border: 0px solid #000;
+background: rgba(255, 0, 229, 0.21);
+color: #000;
+font-family: "Comic Sans";
+}
+
+.cave-grid, div .left, .mound-grid {
+border: 1px solid #000;
+background: #ff00e5;
+color: #000;
+font-family: "Comic Sans";
+}
+
+.table .left {
+border: 1px solid #000;
+background: rgba(255, 0, 229, 0.21);
+color: #000;
+font-family: "Comic Sans";
+}
+
+.inner-table .right {
+background: rgba(255, 0, 229, 0.21);
+border: 1px solid #000;
+border-left: none;
+font-family: "Comic Sans";
+}
