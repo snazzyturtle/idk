@@ -67,11 +67,13 @@ background: rgba(57, 136, 166, 0.21);
 border-bottom: 1px solid #000;
 color: #000;
  font-family: 'Indie Flower', Verdana;
+ font-size: 14px
 }
  
 .navbar-default .navbar-nav > li > a {
 color: #000;
  font-family: 'Indie Flower', Verdana;
+ font-size: 14px
 }
  
 .navbar-default .navbar-nav li a:hover {
