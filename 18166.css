@@ -5,7 +5,7 @@ color: #000;
 }
 
 h1, h3 , .sidebar h3 {
-font-family: Arial !important;
+font-family: 'Indie Flower', Verdana !important;
 text-align: left;
 color: #000;
 border-bottom: 1px solid #000;
@@ -20,6 +20,7 @@ text-shadow: none;
 font-weight: bold;
 font-size: 14px;
 border-radius: 5px;
+ font-family: 'Indie Flower', Verdana;
 }
  
  
@@ -27,11 +28,13 @@ border-radius: 5px;
  
 .table a:link, .table a:active, .table a:visited, .right a:link, .right a:active, .right a:visited, .bottom a:link, .bottom a:active, .bottom a:visited, .topbar a:link, .topbar a:visited, .topbar a:active, a:link, a:visited, a:active {
 color: #000000;
+ font-family: 'Indie Flower', Verdana;
 }
  
 .table .top a:link, .table .top a:active, .table .top a:visited, .table th a:link, .table th a:active, .table th a:visited {
 border-bottom: 1px solid #000000;
 color: #000000;
+ font-family: 'Indie Flower', Verdana;
 }
  
 /* Topbar */
@@ -41,11 +44,13 @@ background: rgba(57, 136, 166, 0.70);
 border: 1px solid #000;
 border-bottom-left-radius: 10px;
 border-bottom-right-radius: 10px;
+ font-family: 'Indie Flower', Verdana;
 }
 
 .badge {
 background: rgba(57, 136, 166, 0.21);
 border: 1px solid #000;
+ font-family: 'Indie Flower', Verdana;
 }
  
 /* Navigational Bar */
@@ -54,16 +59,19 @@ border: 1px solid #000;
 background: rgba(57, 136, 166, 0.40);
 border: 1px solid #000;
 box-shadow: none;
+ font-family: 'Indie Flower', Verdana;
 }
  
 .navbar {
 background: rgba(57, 136, 166, 0.21);
 border-bottom: 1px solid #000;
 color: #000;
+ font-family: 'Indie Flower', Verdana;
 }
  
 .navbar-default .navbar-nav > li > a {
 color: #000;
+ font-family: 'Indie Flower', Verdana;
 }
  
 .navbar-default .navbar-nav li a:hover {
@@ -71,6 +79,7 @@ color: #000;
 background: #3988A6;
 border-left: 1px solid #000;
 border-right: 1px solid #000;
+ font-family: 'Indie Flower', Verdana;
 } 
  
  
@@ -83,21 +92,25 @@ border: 0px solid #000;
 border-bottom: 1px solid #000;
 border-left: 1px solid #000;
 color: #000;
+ font-family: 'Indie Flower', Verdana;
 }
  
 .col-md-3 .panel {
 background: rgba(57, 136, 166, 0.21);
 border: 1px solid #000;
-box-shadow: none;    
+box-shadow: none;  
+ font-family: 'Indie Flower', Verdana;
 }
  
 .progress-bar {
 background: #8B3D23;
+ font-family: 'Indie Flower', Verdana;
 }
  
 .progress {
 background: #f7f7f7;
 border: 1px solid #000;
+ font-family: 'Indie Flower', Verdana;
 }
  
  
@@ -107,46 +120,55 @@ border: 1px solid #000;
 background: rgba(57, 136, 166, 0.21);
 font-size: 11px;
 color: #000;
+ font-family: 'Indie Flower', Verdana;
 }
 
 .chatContainer {
 border: 1px solid #000;
+ font-family: 'Indie Flower', Verdana;
 }
  
 .userstolen {
 background: none;
+ font-family: 'Indie Flower', Verdana;
 }
 
 .alert-danger {
 color: #000000;
 background: rgba(139, 61, 35, 0.21);
 border: 1px solid #000;
+ font-family: 'Indie Flower', Verdana;
 }
 
 .alert-success {
 color: #000;
 background: rgba(139, 61, 35, 0.21);
 border: 1px solid #000;
+ font-family: 'Indie Flower', Verdana;
 }
 
 .breadcrumb {
 background:  rgba(57, 136, 166, 0.21);
 font-size: 13px;
 border: 1px solid #000;
+ font-family: 'Indie Flower', Verdana;
 }
  
 .breadcrumb>.active {
 color: #000;
+ font-family: 'Indie Flower', Verdana;
 }
  
 h1 small, h2, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 font-family: "Carter One";
 color: #000;
+ font-family: 'Indie Flower', Verdana;
 }
  
 .col-md-9 {
 background: none;
 border: 0px solid #000;
+ font-family: 'Indie Flower', Verdana;
 }
  
 /* Tables */
@@ -155,39 +177,46 @@ border: 0px solid #000;
 border-radius: 25px;
 overflow: hidden;
 border: 1px solid #000;
+ font-family: 'Indie Flower', Verdana;
 }
  
 .table, .item {
 border: 1px solid #000;
 background: rgba(57, 136, 166, 0.21);
 border-collapse: separate;
+ font-family: 'Indie Flower', Verdana;
 }
 
 .table .right, .table .right_odd {
 background: none;
 border: 0px solid #000;
+ font-family: 'Indie Flower', Verdana;
 }
 
 div .feature, .cave-grid, div .left, .mound-grid,  .table .bottom,  .table .top, .table th, .item-header, .item-footer {
 border: 0px solid #000;
 background: rgba(57, 136, 166, 0.21);
 color: #000;
+ font-family: 'Indie Flower', Verdana;
 }
 
 .cave-grid, div .left, .mound-grid {
 border: 1px solid #000;
 background: #3988A6;
 color: #000;
+ font-family: 'Indie Flower', Verdana;
 }
 
 .table .left {
 border: 1px solid #000;
 background: rgba(57, 136, 166, 0.21);
 color: #000;
+ font-family: 'Indie Flower', Verdana;
 }
 
 .inner-table .right {
 background: rgba(57, 136, 166, 0.21);
 border: 1px solid #000;
 border-left: none;
+ font-family: 'Indie Flower', Verdana;
 }
