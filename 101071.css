@@ -66,6 +66,7 @@ font-family: "Times New Roman";
 }
  
 .navbar {
+border-radius: 25px;
 background: rgba(167, 137, 154, 0.21);
 border-bottom: 1px solid #000;
 color: #000;
@@ -78,7 +79,6 @@ font-family: "Times New Roman";
 }
  
 .navbar-default .navbar-nav li a:hover {
-border-radius: 25px;
 color: #000;
 background: #98788f;
 border-left: 1px solid #000;
