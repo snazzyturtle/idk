@@ -203,6 +203,7 @@ font-family: "Times New Roman";
 }
 
 div .feature, .cave-grid, div .left, .mound-grid,  .table .bottom,  .table .top, .table th, .item-header, .item-footer {
+border-radius: 25px;
 border: 0px solid #000;
 background: rgba(152, 120, 143, 0.21);
 color: #000;
