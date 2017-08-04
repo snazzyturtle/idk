@@ -55,6 +55,7 @@ border: 1px solid #000;
 /* Navigational Bar */
  
 .main {
+ border-radius: 25px;
 background: rgba(123, 140, 160, 0.21);
 border: 1px solid #000;
 box-shadow: none;
