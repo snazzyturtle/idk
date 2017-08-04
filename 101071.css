@@ -32,7 +32,6 @@ font-family: "Times New Roman";
 }
  
 .table .top a:link, .table .top a:active, .table .top a:visited, .table th a:link, .table th a:active, .table th a:visited {
-border-radius: 25px;
 border-bottom: 1px solid #000000;
 color: #000000;
 font-family: "Times New Roman";
