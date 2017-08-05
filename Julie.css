@@ -175,6 +175,7 @@ color: #000;
 }
 
 .cave-grid, div .left, .mound-grid {
+border-radius: 25px;
 border: 1px solid #000;
 background: #9E9EE6;
 color: #000;
