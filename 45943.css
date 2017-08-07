@@ -6,7 +6,7 @@ font-family: Bookman;
 }
 
 h1, h3 , .sidebar h3 {
-font-family: "Comic Sans MS" !important;
+font-family: Bookman !important;
 text-align: left;
 color: #000;
 border-bottom: 1px solid #000;
@@ -41,7 +41,7 @@ font-family: Bookman;
 /* Topbar */
  
 .topbar {
-background: rgba(254, 87, 87, 0.21);
+background: rgba(254, 87, 87, 0.70);
 border: 1px solid #000;
 border-bottom-left-radius: 10px;
 border-bottom-right-radius: 10px;
