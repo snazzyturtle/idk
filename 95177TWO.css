@@ -1,0 +1,227 @@
+body {background: url("http://i.imgur.com/kRjTLQp.jpg") fixed;background-repeat: no-repeat;background-size: cover;color: #000;}
+
+.welcomeback, .white, .bottomlinks li a:hover, .bottomlinks li a {
+color: #000;
+}
+
+h1, h3 , .sidebar h3 {
+font-family: 'Courgette', "Courier New" !important;
+text-align: left;
+color: #000;
+border-bottom: 1px solid #000;
+}
+
+/* Buttons */
+input[type="button"], input[type="submit"], input[type="submit"]:hover {
+background: rgba(120, 98, 75, 0.21);
+color: #000;
+border: 1px solid #000;
+text-shadow: none;
+font-weight: bold;
+font-size: 14px;
+border-radius: 5px;
+font-family: 'Courgette', "Courier New";
+}
+ 
+ 
+/* Links */
+ 
+.table a:link, .table a:active, .table a:visited, .right a:link, .right a:active, .right a:visited, .bottom a:link, .bottom a:active, .bottom a:visited, .topbar a:link, .topbar a:visited, .topbar a:active, a:link, a:visited, a:active {
+color: #000000;
+font-family: 'Courgette', "Courier New";
+}
+ 
+.table .top a:link, .table .top a:active, .table .top a:visited, .table th a:link, .table th a:active, .table th a:visited {
+border-bottom: 1px solid #000000;
+color: #000000;
+font-family: 'Courgette', "Courier New";
+}
+ 
+/* Topbar */
+ 
+.topbar {
+background: rgba(120, 98, 75, 0.21);
+border: 1px solid #000;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+font-family: 'Courgette', "Courier New";
+}
+
+.badge {
+background: rgba(120, 98, 75, 0.21);
+border: 1px solid #000;
+font-family: 'Courgette', "Courier New";
+}
+ 
+/* Navigational Bar */
+ 
+.main {
+border-radius: 25px;
+background: rgba(120, 98, 75, 0.21);
+border: 1px solid #000;
+box-shadow: none;
+font-family: 'Courgette', "Courier New";
+}
+ 
+.navbar {
+border-radius: 25px;
+background: rgba(120, 98, 75, 0.21);
+border-bottom: 1px solid #000;
+color: #000;
+font-family: 'Courgette', "Courier New";
+}
+ 
+.navbar-default .navbar-nav > li > a {
+color: #000;
+font-family: 'Courgette', "Courier New";
+}
+ 
+.navbar-default .navbar-nav li a:hover {
+color: #000;
+background: #78624B;
+border-left: 1px solid #000;
+border-right: 1px solid #000;
+font-family: 'Courgette', "Courier New";
+} 
+ 
+ 
+ 
+/* Sidebar */
+ 
+.sidebar {
+background: rgba(120, 98, 75, 0.21);
+border: 0px solid #000;
+border-bottom: 1px solid #000;
+border-left: 1px solid #000;
+color: #000;
+font-family: 'Courgette', "Courier New";
+}
+ 
+.col-md-3 .panel {
+background: rgba(120, 98, 75, 0.21);
+border: 1px solid #000;
+box-shadow: none;  
+font-family: 'Courgette', "Courier New";
+}
+ 
+.progress-bar {
+background: #78624B;
+font-family: 'Courgette', "Courier New";
+}
+ 
+.progress {
+background: #f7f7f7;
+border: 1px solid #000;
+font-family: 'Courgette', "Courier New";
+}
+ 
+ 
+/* Chat */
+ 
+.chat_light, .chat_dark {
+background: rgba(120, 98, 75, 0.21);
+font-size: 11px;
+color: #000;
+font-family: 'Courgette', "Courier New";
+}
+
+.chatContainer {
+border: 1px solid #000;
+font-family: 'Courgette', "Courier New";
+}
+ 
+.userstolen {
+background: none;
+font-family: 'Courgette', "Courier New";
+}
+
+.alert-danger {
+color: #000000;
+background: rgba(120, 98, 75, 0.21);
+border: 1px solid #000;
+font-family: 'Courgette', "Courier New";
+}
+
+.alert-success {
+color: #000;
+background: rgba(120, 98, 75, 0.21);
+border: 1px solid #000;
+font-family: 'Courgette', "Courier New";
+}
+
+.breadcrumb {
+background:  rgba(120, 98, 75, 0.21);
+font-size: 13px;
+border: 1px solid #000;
+font-family: 'Courgette', "Courier New";
+}
+ 
+.breadcrumb>.active {
+color: #000;
+font-family: 'Courgette', "Courier New";
+}
+ 
+h1 small, h2, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+font-family: "Carter One";
+color: #000;
+font-family: 'Courgette', "Courier New";
+}
+ 
+.col-md-9 {
+background: none;
+border: 0px solid #000;
+font-family: 'Courgette', "Courier New";
+}
+ 
+/* Tables */
+ 
+#lion_image {
+border-radius: 25px;
+overflow: hidden;
+border: 1px solid #000;
+font-family: 'Courgette', "Courier New";
+}
+ 
+.table, .item {
+border-radius: 25px;
+border: 1px solid #000;
+background: rgba(196, 197, 217, 0.21);
+border-collapse: separate;
+font-family: 'Courgette', "Courier New";
+}
+
+.table .right, .table .right_odd {
+background: none;
+border: 0px solid #000;
+font-family: 'Courgette', "Courier New";
+}
+
+div .feature, .cave-grid, div .left, .mound-grid,  .table .bottom,  .table .top, .table th, .item-header, .item-footer {
+border-radius: 25px;
+border: 0px solid #000;
+background: rgba(120, 98, 75, 0.21);
+color: #000;
+font-family: 'Courgette', "Courier New";
+}
+
+.cave-grid, div .left, .mound-grid {
+border-radius: 25px;
+border: 1px solid #000;
+background: #78624B;
+color: #000;
+font-family: 'Courgette', "Courier New";
+}
+
+.table .left {
+border: 1px solid #000;
+background: rgba(120, 98, 75, 0.21);
+color: #000;
+font-family: 'Courgette', "Courier New";
+}
+
+.inner-table .right {
+background: rgba(120, 98, 75, 0.21);
+border: 1px solid #000;
+border-left: none;
+font-family: 'Courgette', "Courier New";
+}
