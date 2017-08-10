@@ -64,6 +64,7 @@ font-family: 'Courgette', "Courier New";
 }
  
 .navbar {
+border-radius: 25px;
 background: rgba(196, 197, 217, 0.21);
 border-bottom: 1px solid #000;
 color: #000;
