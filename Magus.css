@@ -175,19 +175,19 @@ border: 0px solid #000;
  
 div .feature, .cave-grid, div .left, .mound-grid,  .table .bottom,  .table .top, .table th, .item-header, .item-footer {
 border: 0px solid #000;
-background: #C9EDE3;
+background: #58B035;
 color: #000;
 }
  
 .cave-grid, div .left, .mound-grid {
 border: 1px solid #000;
-background: #C9EDE3;
+background: #58B035;
 color: #000;
 }
  
 .table .left {
 border: 1px solid #000;
-background: #C9EDE3;
+background: #58B035;
 color: #000;
 }
  
