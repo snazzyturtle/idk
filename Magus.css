@@ -91,7 +91,7 @@ color: #000;
 }
   
 .col-md-3 .panel {
-background: rgb(193, 235, 225);
+background: rgb(88, 176, 53);
 border: 1px solid #000;
 box-shadow: none;    
 }
@@ -181,7 +181,7 @@ color: #000;
  
 .cave-grid, div .left, .mound-grid {
 border: 1px solid #000;
-background: #58B035;
+background: #C9EDE3;
 color: #000;
 }
  
