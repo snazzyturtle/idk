@@ -5,6 +5,47 @@ color: #000;
 font-family: 'Calligraffitti', cursive;
 }
 
+.scrollboxes {
+	margin-bottom:5px;
+}
+	
+	.scrollboxes:after {
+		visibility:hidden;
+		display:block;
+		font-size:0;
+		content:' ';
+		clear:both;
+	}
+
+	.scrollboxes__one .scrollbox {
+		width:100%;
+		margin-left:0;
+		margin-right:0;
+	}
+
+.scrollbox {
+	float:left;
+	margin:0 2.5px;
+	background-color:#FAFAFA;
+}
+	
+	.scrollbox__head,
+	.scrollbox__content {
+		padding:5px;
+	}
+
+		.scrollbox__head {
+			font-size:16px;
+			letter-spacing:1px;
+		}
+
+		.scrollbox__content {
+			text-align:left;
+			overflow-y:auto;
+			overflow-x:hidden;
+			height:170px;
+		}
+
 h1, h3 , .sidebar h3 {
 font-family: 'Calligraffitti', Times !important;
 text-align: left;
