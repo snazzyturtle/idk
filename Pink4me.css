@@ -6,11 +6,10 @@ color: #000;
 }
 
 h1, h3 , .sidebar h3 {
-font-family: Arial !important;
+font-family: 'The Girl Next Door', Arial !important;
 text-align: left;
 color: #000;
 border-bottom: 1px solid #000;
- font-family: 'The Girl Next Door', cursive;
 }
 
 /* Buttons */
@@ -22,7 +21,7 @@ text-shadow: none;
 font-weight: bold;
 font-size: 14px;
 border-radius: 5px;
- font-family: 'The Girl Next Door', cursive;
+ font-family: 'The Girl Next Door', Arial, cursive;
 }
  
  
@@ -35,7 +34,7 @@ color: #000000;
 .table .top a:link, .table .top a:active, .table .top a:visited, .table th a:link, .table th a:active, .table th a:visited {
 border-bottom: 1px solid #000000;
 color: #000000;
- font-family: 'The Girl Next Door', cursive;
+ font-family: 'The Girl Next Door', Arial, cursive;
 }
  
 /* Topbar */
@@ -45,13 +44,13 @@ background: rgba(255, 229, 226, 0.21);
 border: 1px solid #000;
 border-bottom-left-radius: 10px;
 border-bottom-right-radius: 10px;
- font-family: 'The Girl Next Door', cursive;
+ font-family: 'The Girl Next Door', Arial, cursive;
 }
 
 .badge {
 background: rgba(255, 229, 226, 0.21);
 border: 1px solid #000;
- font-family: 'The Girl Next Door', cursive;
+ font-family: 'The Girl Next Door', Arial, cursive;
 }
  
 /* Navigational Bar */
@@ -60,14 +59,14 @@ border: 1px solid #000;
 background: rgba(255, 229, 226, 0.21);
 border: 1px solid #000;
 box-shadow: none;
- font-family: 'The Girl Next Door', cursive;
+ font-family: 'The Girl Next Door', Arial, cursive;
 }
  
 .navbar {
 background: rgba(255, 229, 226, 0.21);
 border-bottom: 1px solid #000;
 color: #000;
- font-family: 'The Girl Next Door', cursive;
+ font-family: 'The Girl Next Door', Arial, cursive;
 }
  
 .navbar-default .navbar-nav > li > a {
@@ -79,7 +78,7 @@ color: #000;
 background: #eae9ee;
 border-left: 1px solid #000;
 border-right: 1px solid #000;
- font-family: 'The Girl Next Door', cursive;
+ font-family: 'The Girl Next Door', Arial, cursive;
 } 
  
  
@@ -92,25 +91,25 @@ border: 0px solid #000;
 border-bottom: 1px solid #000;
 border-left: 1px solid #000;
 color: #000;
- font-family: 'The Girl Next Door', cursive;
+ font-family: 'The Girl Next Door', Arial, cursive;
 }
  
 .col-md-3 .panel {
 background: rgba(255, 229, 226, 0.21);
 border: 1px solid #000;
 box-shadow: none;   
- font-family: 'The Girl Next Door', cursive;
+ font-family: 'The Girl Next Door', Arial, cursive;
 }
  
 .progress-bar {
 background: #FFE5E2;
- font-family: 'The Girl Next Door', cursive;
+ font-family: 'The Girl Next Door', Arial, cursive;
 }
  
 .progress {
 background: #f7f7f7;
 border: 1px solid #000;
- font-family: 'The Girl Next Door', cursive;
+ font-family: 'The Girl Next Door', Arial, cursive;
 }
  
  
@@ -120,38 +119,38 @@ border: 1px solid #000;
 background: rgba(255, 229, 226, 0.21);
 font-size: 11px;
 color: #000;
- font-family: 'The Girl Next Door', cursive;
+ font-family: 'The Girl Next Door', Arial, cursive;
 }
 
 .chatContainer {
 border: 1px solid #000;
- font-family: 'The Girl Next Door', cursive;
+ font-family: 'The Girl Next Door', Arial, cursive;
 }
  
 .userstolen {
 background: none;
- font-family: 'The Girl Next Door', cursive;
+ font-family: 'The Girl Next Door', Arial, cursive;
 }
 
 .alert-danger {
 color: #000000;
 background: rgba(255, 229, 226, 0.21);
 border: 1px solid #000;
- font-family: 'The Girl Next Door', cursive;
+ font-family: 'The Girl Next Door', Arial, cursive;
 }
 
 .alert-success {
 color: #000;
 background: rgba(255, 229, 226, 0.21);
 border: 1px solid #000;
- font-family: 'The Girl Next Door', cursive;
+ font-family: 'The Girl Next Door', Arial, cursive;
 }
 
 .breadcrumb {
 background:  rgba(255, 229, 226, 0.21);
 font-size: 13px;
 border: 1px solid #000;
- font-family: 'The Girl Next Door', cursive;
+ font-family: 'The Girl Next Door', Arial, cursive;
 }
  
 .breadcrumb>.active {
@@ -159,14 +158,14 @@ color: #000;
 }
  
 h1 small, h2, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
-font-family: 'The Girl Next Door', "Carter One", cursive;
+font-family: 'The Girl Next Door', Arial, cursive;
 color: #000;
 }
  
 .col-md-9 {
 background: none;
 border: 0px solid #000;
- font-family: 'The Girl Next Door', cursive;
+ font-family: 'The Girl Next Door', Arial, cursive;
 }
  
 /* Tables */
@@ -175,46 +174,46 @@ border: 0px solid #000;
 border-radius: 25px;
 overflow: hidden;
 border: 1px solid #000;
- font-family: 'The Girl Next Door', cursive;
+ font-family: 'The Girl Next Door', Arial, cursive;
 }
  
 .table, .item {
 border: 1px solid #000;
 background: rgba(255, 229, 226, 0.21);
 border-collapse: separate;
- font-family: 'The Girl Next Door', cursive;
+ font-family: 'The Girl Next Door', Arial, cursive;
 }
 
 .table .right, .table .right_odd {
 background: none;
 border: 0px solid #000;
- font-family: 'The Girl Next Door', cursive;
+ font-family: 'The Girl Next Door', Arial, cursive;
 }
 
 div .feature, .cave-grid, div .left, .mound-grid,  .table .bottom,  .table .top, .table th, .item-header, .item-footer {
 border: 0px solid #000;
 background: rgba(255, 229, 226, 0.21);
 color: #000;
- font-family: 'The Girl Next Door', cursive;
+ font-family: 'The Girl Next Door', Arial, cursive;
 }
 
 .cave-grid, div .left, .mound-grid {
 border: 1px solid #000;
 background: #FFE5E2;
 color: #000;
- font-family: 'The Girl Next Door', cursive;
+ font-family: 'The Girl Next Door', Arial, cursive;
 }
 
 .table .left {
 border: 1px solid #000;
 background: rgba(255, 229, 226, 0.21);
 color: #000;
- font-family: 'The Girl Next Door', cursive;
+ font-family: 'The Girl Next Door', Arial, cursive;
 }
 
 .inner-table .right {
 background: rgba(255, 229, 226, 0.21);
 border: 1px solid #000;
 border-left: none;
- font-family: 'The Girl Next Door', cursive;
+ font-family: 'The Girl Next Door', Arial, cursive;
 }
