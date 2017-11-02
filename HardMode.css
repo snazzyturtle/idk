@@ -220,3 +220,7 @@ border: 1px solid #000;
 border-left: none;
  font-family: 'Special Elite', Arial ,cursive;
 }
+
+
+body > div.container.main > div:nth-child(1) > nav > div.navbar-header > a > img {
+content: url('https://i.imgur.com/NX6KJDj.png')
