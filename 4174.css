@@ -104,16 +104,14 @@ box-shadow: none;
 }
  
 .progress-bar {
- color: #ffffff;
+color: #ffffff;
 background: #000;
- font-family: Arial;
 }
  
 .progress {
- color: #ffffff;
+color: #ffffff;
 background: #f7f7f7;
 border: 1px solid #000;
- font-family: Arial;
 }
  
  
