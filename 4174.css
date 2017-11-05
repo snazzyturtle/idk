@@ -234,6 +234,7 @@ border-left: none;
  font-family: Arial;
 }
 
+textarea {color:black;}
 
 body > div.container.main > div:nth-child(1) > nav > div.navbar-header > a > img {
 content: url('https://i.imgur.com/QWZ9Frt.png')
