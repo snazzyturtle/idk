@@ -45,12 +45,14 @@ border: 1px solid #000;
 border-bottom-left-radius: 10px;
 border-bottom-right-radius: 10px;
  font-family: Arial;
+ color: #ffffff;
 }
 
 .badge {
 background: rgba(2, 0, 2, 0.21);
 border: 1px solid #000;
  font-family: Arial;
+ color: #ffffff;
 }
  
 /* Navigational Bar */
@@ -60,6 +62,7 @@ background: rgba(2, 0, 2, 0.21);
 border: 1px solid #000;
 box-shadow: none;
  font-family: Arial;
+ color: #ffffff;
 }
  
 .navbar {
@@ -127,11 +130,13 @@ color: #ffffff;
 .chatContainer {
 border: 1px solid #000;
  font-family: Arial;
+ color: #ffffff;
 }
  
 .userstolen {
 background: none;
  font-family: Arial;
+ color: #ffffff;
 }
 
 .alert-danger {
@@ -152,6 +157,7 @@ border: 1px solid #000;
 background:  rgba(2, 0, 2, 0.21);
 font-size: 13px;
 border: 1px solid #000;
+ color: #ffffff;
  font-family: Arial;
 }
  
@@ -169,6 +175,7 @@ color: #ffffff;
 .col-md-9 {
 background: none;
 border: 0px solid #000;
+ color: #ffffff;
  font-family: Arial;
 }
  
@@ -178,6 +185,7 @@ border: 0px solid #000;
 border-radius: 25px;
 overflow: hidden;
 border: 1px solid #000;
+ color: #ffffff;
  font-family: Arial;
 }
  
@@ -185,12 +193,14 @@ border: 1px solid #000;
 border: 1px solid #000;
 background: rgba(2, 0, 2, 0.21);
 border-collapse: separate;
+ color: #ffffff;
  font-family: Arial;
 }
 
 .table .right, .table .right_odd {
 background: none;
 border: 0px solid #000;
+ color: #ffffff;
  font-family: Arial;
 }
 
@@ -219,6 +229,7 @@ color: #ffffff;
 background: rgba(2, 0, 2, 0.21);
 border: 1px solid #000;
 border-left: none;
+ color: #ffffff;
  font-family: Arial;
 }
 
