@@ -1,13 +1,13 @@
-body {background: url("https://i.imgur.com/PTSwhND.jpg") fixed;background-repeat: no-repeat;background-size: cover;color: #000;}
+body {background: url("https://i.imgur.com/PTSwhND.jpg") fixed;background-repeat: no-repeat;background-size: cover;color: #ffffff;}
 
 .welcomeback, .white, .bottomlinks li a:hover, .bottomlinks li a {
-color: #000;
+color: #ffffff;
 }
 
 h1, h3 , .sidebar h3 {
 font-family: Arial !important;
 text-align: left;
-color: #000;
+color: #ffffff;
 border-bottom: 1px solid #000;
 }
 
@@ -65,12 +65,12 @@ box-shadow: none;
 .navbar {
 background: rgba(2, 0, 2, 0.21);
 border-bottom: 1px solid #000;
-color: #000;
+color: #ffffff;
  font-family: Arial;
 }
  
 .navbar-default .navbar-nav > li > a {
-color: #000;
+color: #ffffff;
  font-family: Arial;
 }
  
