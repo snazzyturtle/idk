@@ -14,10 +14,11 @@ background-size: 100%;
 width: auto !important;
 min-width: 600px !important;
 }
+ 
 .main {
 background: #271640;
 }
-}
+
 .col-md-9-xs-12 {
 background: #271640 !important;
 border: 4px double #6C75A0 !important;
