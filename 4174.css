@@ -76,10 +76,10 @@ color: #ffffff;
  
 .navbar-default .navbar-nav li a:hover {
 color: #ffffff;
-background: #20002;
+background: #000;
 border-left: 1px solid #000;
 border-right: 1px solid #000;
- font-family: 'Special Elite', Arial ,cursive;
+ font-family: Arial;
 } 
  
  
@@ -96,6 +96,7 @@ color: #ffffff;
 }
  
 .col-md-3 .panel {
+ color: #ffffff;
 background: rgba(2, 0, 2, 0.21);
 border: 1px solid #000;
 box-shadow: none;  
@@ -103,11 +104,13 @@ box-shadow: none;
 }
  
 .progress-bar {
-background: #20002;
+ color: #ffffff;
+background: #000;
  font-family: Arial;
 }
  
 .progress {
+ color: #ffffff;
 background: #f7f7f7;
 border: 1px solid #000;
  font-family: 'Special Elite', Arial ,cursive;
@@ -119,7 +122,7 @@ border: 1px solid #000;
 .chat_light, .chat_dark {
 background: rgba(2, 0, 2, 0.21);
 font-size: 11px;
-color: #000;
+color: #ffffff;
  font-family: Arial;
 }
 
