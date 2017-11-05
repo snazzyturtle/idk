@@ -15,7 +15,7 @@ width: auto !important;
 min-width: 600px !important;
 }
 .main{
-background: #271640;
+background: rgba (	108, 117, 160, 1);
 }
 }
 .col-md-9-xs-12 {
