@@ -1,0 +1,271 @@
+@media (min-width: 768px) {
+body{
+background: url('https://wallpaperscraft.com/image/galaxy_nebula_blurring_stars_65152_1920x1080.jpg') center center fixed !important;
+background-repeat: no-repeat;
+background-size: 100%;
+}
+}
+ 
+@media (max-width: 768px) {
+body {
+background: url('https://wallpaperscraft.com/image/galaxy_nebula_blurring_stars_65152_1920x1080.jpg') center center fixed !important;
+background-repeat: no-repeat;
+background-size: 100%;
+width: auto !important;
+min-width: 600px !important;
+}
+.main{
+background: #271640
+}
+}
+.col-md-9-xs-12 {
+background: #271640 !important;
+border: 4px double #6C75A0 !important;
+border-top: none !important;
+border-right: none !important;
+border-bottom: none !important;
+}
+div.container.main {
+background: #271640 !important;
+border: 4px double #6C75A0 !important;
+border-left: none !important;
+}
+.navbar {
+background: #271640 !important;
+border: 1px solid #6C75A0 !important;
+border-bottom: none !important;
+border-top: none !important;
+border-right: none !important;
+box-shadow: none !important;
+font-family: 'Trebuchet MS';
+}
+.navbar li a {
+color: #707E98 !important;
+}
+.navbar li a:hover {
+background: #3E2E53 !important;
+}
+.breadcrumb {
+background: #271640 !important;
+color: #707E98  !important;
+border: 1px solid #6C75A0 !important;
+}
+.feautre {
+background: #271640 !important;
+color: #707E98 !important;
+border: 1px solid #6C75A0 !important;
+}
+.topbar {
+background: #271640 !important;
+color: #707E98 !important;
+broder: 1px solid #6C75A0 !important;
+border-top: none !important;
+border-bottom: 4px solid #6C75A0 !important;
+}
+.sidebar {
+background: #271640 !important;
+color: #707E98  !important;
+border: none !important;
+}
+.chat_light{
+background: #271640 !important;
+color: #707E98 !important;
+border: 1px solid #6C75A0 !important;
+}
+.chat_dark {
+background: #271640 !important;
+color: #707E98 !important;
+border: 1px solid #6C75A0 !important;
+}
+h1 {
+text-align: center !important;
+color: #707E98 !important;
+font-family: 'Trebuchet MS' !important;
+}
+h3 {
+text-align: center !important;
+color: #707E98 !important;
+font-family: 'Trebuchet MS' !important;
+}
+.top {
+background: #271640 !important;
+color: #707E98 !important;
+border: 1px solid #6C75A0 !important;
+text-align: center !important;
+font-family: 'Trebuchet MS' !important;
+}
+th {
+background: #271640 !important;
+color: #707E98 !important;
+border: 1px solid #6C75A0 !important;
+text-align: center !important;
+font-family: 'Trebuchet MS' !important;
+}
+.bottom {
+background: #271640 !important;
+color: #707E98 !important;
+border: 1px solid #6C75A0 !important;
+text-align: center !important;
+font-family: 'Trebuchet MS' !important;
+}
+.left {
+background: #271640 !important;
+color: #707E98 !important;
+border: 1px solid #6C75A0 !important;
+text-align: center !important;
+font-family: 'Trebuchet MS' !important;
+}
+td {
+background: #271640 !important;
+color: #707E98 !important;
+border: none !important;
+ 
+}
+.right_cub {
+background: #271640 !important;
+}
+a:link {
+color: #FFFFFF !important;
+}
+a:visited {
+color: #FFFFFF !important;
+}
+a:hover {
+color: #707E98 !important;
+}
+.alert-danger {
+background: #271640 !important;
+color: #707E98 !important;
+border: 1px solid #6C75A0 !important;
+text-align: center !important;
+}
+.alert-success {
+background: #271640 !important;
+color: #707E98 !important;
+border: 1px solid #6C75A0 !important;
+text-align: center !important;
+}
+.attack-won {
+v
+}
+.attack-lost {
+background: #271640 !important;
+color: #707E98 !important;
+border: 1px solid #6C75A0 !important;
+text-align: center !important;
+}
+input[type="button"] {
+background: #271640 !important;
+color: #707E98 !important;
+border: 1px solid #6C75A0 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+input[type="button"] {
+background: #271640 !important;
+color: #707E98 !important;
+border: 1px solid #6C75A0 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+input[type="text"] {
+background: #271640 !important;
+color: #707E98 !important;
+border: 1px solid #6C75A0 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+input[type="password"] {
+background: #271640 !important;
+color: #707E98 !important;
+border: 1px solid #6C75A0 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+textarea {
+background: #271640 !important;
+color: #707E98 !important;
+border: 1px solid #6C75A0 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+select {
+background: #271640 !important;
+color: #707E98 !important;
+border: 1px solid #6C75A0 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+input[type="button"]:hover {
+background: #3E2E53 !important;
+color: #707E98 !important;
+border: 1px solid #6C75A0 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+input[type="submit"]:hover {
+background: #3E2E53 !important;
+color: #707E98 !important;
+border: 1px solid #6C75A0 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+input[type="text"]:focus {
+background: #3E2E53 !important;
+color: #707E98 !important;
+border: 1px solid #6C75A0 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+input[type="password"]:focus {
+background: #3E2E53 !important;
+color: #707E98 !important;
+border: 1px solid #6C75A0 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+textarea:focus {
+background: #3E2E53 !important;
+color: #707E98 !important;
+border: 1px solid #6C75A0 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+select:focus {
+background: #3E2E53 !important;
+color: #707E98 !important;
+border: 1px solid #6C75A0 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+.progress {
+background: #3E2E53 !important;
+border: 1 px solid #6C75A0 !important;
+}
+.progress div {
+color: #707E98 !important;
+}
+.progress-bar-warning {
+background: #000000 !important;
+}
+.progress-bar-danger {
+background: #000000 !important;
+}
+.progress-bar-success {
+background: #707E98 !important;
+}
+.progress-bar {
+background: #707E98 !important;
+}
