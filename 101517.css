@@ -40,7 +40,7 @@ font-family: Verdana, Geneva, sans-serif;
 /* Topbar */
  
 .topbar {
-background: rgba(8, 209, 152, 0.21);
+background: rgba(8, 209, 152, 0.5);
 border: 1px solid #000;
 border-bottom-left-radius: 10px;
 border-bottom-right-radius: 10px;
