@@ -13,7 +13,7 @@ border-bottom: 1px solid #000;
 
 /* Buttons */
 input[type="button"], input[type="submit"], input[type="submit"]:hover {
-background: rgba(234, 104, 145, 0.21);
+background: rgba(255, 89, 143, 0.5);
 color: #000;
 border: 1px solid #000;
 text-shadow: none;
@@ -40,7 +40,7 @@ font-family: Verdana, Geneva, sans-serif;
 /* Topbar */
  
 .topbar {
-background: rgba(234, 104, 145, 0.21);
+background: rgba(8, 209, 152 0.21);
 border: 1px solid #000;
 border-bottom-left-radius: 10px;
 border-bottom-right-radius: 10px;
@@ -48,7 +48,7 @@ font-family: Verdana, Geneva, sans-serif;
 }
 
 .badge {
-background: rgba(234, 104, 145, 0.21);
+background: rgba(255, 89, 143, 0.5);
 border: 1px solid #000;
 font-family: Verdana, Geneva, sans-serif;
 }
@@ -56,14 +56,14 @@ font-family: Verdana, Geneva, sans-serif;
 /* Navigational Bar */
  
 .main {
-background: rgba(234, 104, 145, 0.21);
+background: rgba(255, 89, 143, 0.5);
 border: 1px solid #000;
 box-shadow: none;
 font-family: Verdana, Geneva, sans-serif;
 }
  
 .navbar {
-background: rgba(170, 238, 238, 0.21);
+background: rgba(8, 209, 152 0.5);
 border-bottom: 1px solid #000;
 color: #000;
  font-family: Verdana, Geneva, sans-serif;
@@ -87,7 +87,7 @@ border-right: 1px solid #000;
 /* Sidebar */
  
 .sidebar {
-background: rgba(234, 104, 145, 0.21);
+background: rgba(255, 89, 143, 0.5);
 border: 0px solid #000;
 border-bottom: 1px solid #000;
 border-left: 1px solid #000;
@@ -96,14 +96,14 @@ color: #000;
 }
  
 .col-md-3 .panel {
-background: rgba(170, 238, 238, 0.21);
+background: rgba(170, 238, 238, 0.5);
 border: 1px solid #000;
 box-shadow: none;  
  font-family: Verdana, Geneva, sans-serif;
 }
  
 .progress-bar {
-background: #AAEEEE;
+background: #08D198;
  font-family: Verdana, Geneva, sans-serif;
 }
  
@@ -117,7 +117,7 @@ border: 1px solid #000;
 /* Chat */
  
 .chat_light, .chat_dark {
-background: rgba(234, 104, 145, 0.21);
+background: rgba(255, 89, 143, 0.5);
 font-size: 11px;
 color: #000;
  font-family: Verdana, Geneva, sans-serif;
@@ -135,20 +135,20 @@ background: none;
 
 .alert-danger {
 color: #000000;
-background: rgba(170, 238, 238, 0.21);
+background: rgba(170, 238, 238, 0.5);
 border: 1px solid #000;
  font-family: Verdana, Geneva, sans-serif;
 }
 
 .alert-success {
 color: #000;
-background: rgba(170, 238, 238, 0.21);
+background: rgba(170, 238, 238, 0.5);
 border: 1px solid #000;
  font-family: Verdana, Geneva, sans-serif;
 }
 
 .breadcrumb {
-background:  rgba(170, 238, 238, 0.21);
+background:  rgba(170, 238, 238, 0.5);
 font-size: 13px;
 border: 1px solid #000;
  font-family: Verdana, Geneva, sans-serif;
@@ -182,7 +182,7 @@ border: 1px solid #000;
  
 .table, .item {
 border: 1px solid #000;
-background: rgba(170, 238, 238, 0.21);
+background: rgba(170, 238, 238, 0.5);
 border-collapse: separate;
  font-family: Verdana, Geneva, sans-serif;
 }
@@ -195,27 +195,27 @@ border: 0px solid #000;
 
 div .feature, .cave-grid, div .left, .mound-grid,  .table .bottom,  .table .top, .table th, .item-header, .item-footer {
 border: 0px solid #000;
-background: rgba(170, 238, 238, 0.21);
+background: rgba(170, 238, 238, 0.5);
 color: #000;
  font-family: Verdana, Geneva, sans-serif;
 }
 
 .cave-grid, div .left, .mound-grid {
 border: 1px solid #000;
-background: #AAEEEE;
+background: #08D198;
 color: #000;
  font-family: Verdana, Geneva, sans-serif;
 }
 
 .table .left {
 border: 1px solid #000;
-background: rgba(170, 238, 238, 0.21);
+background: rgba(170, 238, 238, 0.5);
 color: #000;
  font-family: Verdana, Geneva, sans-serif;
 }
 
 .inner-table .right {
-background: rgba(170, 238, 238, 0.21);
+background: rgba(170, 238, 238, 0.5);
 border: 1px solid #000;
 border-left: none;
  font-family: Verdana, Geneva, sans-serif;
