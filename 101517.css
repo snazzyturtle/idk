@@ -135,20 +135,20 @@ background: none;
 
 .alert-danger {
 color: #000000;
-background: rgba(175, 107, 61, 0.21);
+background: rgba(170, 238, 238, 0.21);
 border: 1px solid #000;
  font-family: Verdana, Geneva, sans-serif;
 }
 
 .alert-success {
 color: #000;
-background: rgba(175, 107, 61, 0.21);
+background: rgba(170, 238, 238, 0.21);
 border: 1px solid #000;
  font-family: Verdana, Geneva, sans-serif;
 }
 
 .breadcrumb {
-background:  rgba(175, 107, 61, 0.21);
+background:  rgba(170, 238, 238, 0.21);
 font-size: 13px;
 border: 1px solid #000;
  font-family: Verdana, Geneva, sans-serif;
