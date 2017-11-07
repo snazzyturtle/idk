@@ -40,7 +40,7 @@ font-family: Verdana, Geneva, sans-serif;
 /* Topbar */
  
 .topbar {
-background: rgba(8, 209, 152, 0.5);
+background: #08D198;
 border: 1px solid #000;
 border-bottom-left-radius: 10px;
 border-bottom-right-radius: 10px;
@@ -63,7 +63,7 @@ font-family: Verdana, Geneva, sans-serif;
 }
  
 .navbar {
-background: rgba(8, 209, 152, 0.5);
+background: #08D198;
 border-bottom: 1px solid #000;
 color: #000;
  font-family: Verdana, Geneva, sans-serif;
