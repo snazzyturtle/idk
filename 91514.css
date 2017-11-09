@@ -76,7 +76,7 @@ color: #000;
  
 .navbar-default .navbar-nav li a:hover {
 color: #000;
-background: #000080;
+background: #FF0000;
 border-left: 1px solid #000;
 border-right: 1px solid #000;
  font-family: 'Special Elite', Arial ,cursive;
@@ -103,7 +103,7 @@ box-shadow: none;
 }
  
 .progress-bar {
-background: #000080;
+background: #FF0000;
  font-family: Arial;
 }
  
@@ -202,7 +202,7 @@ color: #000;
 
 .cave-grid, div .left, .mound-grid {
 border: 1px solid #000;
-background: #000080;
+background: #FF0000;
 color: #000;
  font-family: Arial;
 }
