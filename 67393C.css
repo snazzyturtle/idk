@@ -79,7 +79,7 @@ color: #ffffff;
  
 .navbar-default .navbar-nav li a:hover {
 color: #ffffff;
-background: #000;
+background: #7800C1;
 border-left: 1px solid #000;
 border-right: 1px solid #000;
  font-family: Arial;
@@ -239,4 +239,4 @@ textarea {color:black;}
 /* Start http://www.cursors-4u.com */ body, a:hover {cursor: url(http://cur.cursors-4u.net/nature/nat-1/nat43.ani), url(http://cur.cursors-4u.net/nature/nat-1/nat43.png), progress !important;} /* End http://www.cursors-4u.com */
 
 body > div.container.main > div:nth-child(1) > nav > div.navbar-header > a > img {
-content: url('https://i.imgur.com/QWZ9Frt.png')
+content: url('https://i.imgur.com/M21VPyO.png')
