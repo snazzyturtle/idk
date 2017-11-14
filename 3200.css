@@ -1,0 +1,227 @@
+body {background: url("https://i.imgur.com/ThHPMxg.jpg") fixed;background-repeat: no-repeat;background-size: cover;color: #000;}
+
+.welcomeback, .white, .bottomlinks li a:hover, .bottomlinks li a {
+color: #000;
+}
+
+h1, h3 , .sidebar h3 {
+font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace !important;
+text-align: left;
+color: #000;
+border-bottom: 1px solid #000;
+}
+
+/* Buttons */
+input[type="button"], input[type="submit"], input[type="submit"]:hover {
+background: rgba(132, 151, 165, 0.21);
+color: #000;
+border: 1px solid #000;
+text-shadow: none;
+font-weight: bold;
+font-size: 14px;
+border-radius: 5px;
+ font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+}
+ 
+ 
+/* Links */
+ 
+.table a:link, .table a:active, .table a:visited, .right a:link, .right a:active, .right a:visited, .bottom a:link, .bottom a:active, .bottom a:visited, .topbar a:link, .topbar a:visited, .topbar a:active, a:link, a:visited, a:active {
+color: #000000;
+ font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+}
+ 
+.table .top a:link, .table .top a:active, .table .top a:visited, .table th a:link, .table th a:active, .table th a:visited {
+border-bottom: 1px solid #000000;
+color: #000000;
+ font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+}
+ 
+/* Topbar */
+ 
+.topbar {
+background: rgba(132, 151, 165, 0.21);
+border: 1px solid #000;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+ font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+}
+
+.badge {
+background: rgba(132, 151, 165, 0.21);
+border: 1px solid #000;
+ font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+}
+ 
+/* Navigational Bar */
+ 
+.main {
+background: rgba(132, 151, 165, 0.21);
+border: 1px solid #000;
+box-shadow: none;
+ font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+}
+ 
+.navbar {
+background: rgba(132, 151, 165, 0.21);
+border-bottom: 1px solid #000;
+color: #000;
+ font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+}
+ 
+.navbar-default .navbar-nav > li > a {
+color: #000;
+ font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+}
+ 
+.navbar-default .navbar-nav li a:hover {
+color: #000;
+background: #8497A5;
+border-left: 1px solid #000;
+border-right: 1px solid #000;
+ font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+} 
+ 
+ 
+ 
+/* Sidebar */
+ 
+.sidebar {
+background: rgba(132, 151, 165, 0.21);
+border: 0px solid #000;
+border-bottom: 1px solid #000;
+border-left: 1px solid #000;
+color: #000;
+ font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+}
+ 
+.col-md-3 .panel {
+background: rgba(132, 151, 165, 0.21);
+border: 1px solid #000;
+box-shadow: none;  
+ font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+}
+ 
+.progress-bar {
+background: #8497A5;
+font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+}
+ 
+.progress {
+background: #f7f7f7;
+border: 1px solid #000;
+font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+}
+ 
+ 
+/* Chat */
+ 
+.chat_light, .chat_dark {
+background: rgba(132, 151, 165, 0.21);
+font-size: 11px;
+color: #000;
+ font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+}
+
+.chatContainer {
+border: 1px solid #000;
+ font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+}
+ 
+.userstolen {
+background: none;
+ font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+}
+
+.alert-danger {
+color: #000000;
+background: rgba(132, 151, 165, 0.21);
+border: 1px solid #000;
+ font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+}
+
+.alert-success {
+color: #000;
+background: rgba(132, 151, 165, 0.21);
+border: 1px solid #000;
+ font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+}
+
+.breadcrumb {
+background:  rgba(132, 151, 165, 0.21);
+font-size: 13px;
+border: 1px solid #000;
+ font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+}
+ 
+.breadcrumb>.active {
+color: #000;
+ font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+}
+ 
+h1 small, h2, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+font-family: "Carter One";
+color: #000;
+ font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+}
+ 
+.col-md-9 {
+background: none;
+border: 0px solid #000;
+ font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+}
+ 
+/* Tables */
+ 
+#lion_image {
+border-radius: 25px;
+overflow: hidden;
+border: 1px solid #000;
+ font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+}
+ 
+.table, .item {
+border: 1px solid #000;
+background: rgba(132, 151, 165, 0.21);
+border-collapse: separate;
+ font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+}
+
+.table .right, .table .right_odd {
+background: none;
+border: 0px solid #000;
+ font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+}
+
+div .feature, .cave-grid, div .left, .mound-grid,  .table .bottom,  .table .top, .table th, .item-header, .item-footer {
+border: 0px solid #000;
+background: rgba(132, 151, 165, 0.21);
+color: #000;
+ font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+}
+
+.cave-grid, div .left, .mound-grid {
+border: 1px solid #000;
+background: #8497A5;
+color: #000;
+ font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+}
+
+.table .left {
+border: 1px solid #000;
+background: rgba(132, 151, 165, 0.21);
+color: #000;
+ font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+}
+
+.inner-table .right {
+background: rgba(132, 151, 165, 0.21);
+border: 1px solid #000;
+border-left: none;
+ font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+}
+
+/* Start http://www.cursors-4u.com */ body, a:hover {cursor: url(http://cur.cursors-4u.net/nature/nat-8/nat738.cur), progress !important;} /* End http://www.cursors-4u.com */
+
+body > div.container.main > div:nth-child(1) > nav > div.navbar-header > a > img {
+content: url('https://i.imgur.com/FzqijO1.png')
