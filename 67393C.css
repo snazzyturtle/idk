@@ -27,13 +27,13 @@ border-radius: 5px;
 /* Links */
  
 .table a:link, .table a:active, .table a:visited, .right a:link, .right a:active, .right a:visited, .bottom a:link, .bottom a:active, .bottom a:visited, .topbar a:link, .topbar a:visited, .topbar a:active, a:link, a:visited, a:active {
-color: #7800C1;
+color: #add8e6;
  font-family: Arial;
 }
  
 .table .top a:link, .table .top a:active, .table .top a:visited, .table th a:link, .table th a:active, .table th a:visited {
 border-bottom: 1px solid #000000;
-color: #7800C1;
+color: #add8e6;
  font-family: Arial;
 }
  
