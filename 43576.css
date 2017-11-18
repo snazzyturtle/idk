@@ -1,20 +1,20 @@
-body {background: url("https://i.imgur.com/9n764Md.jpg") fixed;background-repeat: no-repeat;background-size: cover;color: #FFD69B;}
+body {background: url("https://i.imgur.com/9n764Md.jpg") fixed;background-repeat: no-repeat;background-size: cover;color: #ffe9cc;}
 
 .welcomeback, .white, .bottomlinks li a:hover, .bottomlinks li a {
-color: #fff4e6;
+color: #ffe9cc;
 }
 
 h1, h3 , .sidebar h3 {
 font-family: Arial !important;
 text-align: left;
-color: #fff4e6;
+color: #ffe9cc;
 border-bottom: 1px solid #000;
 }
 
 /* Buttons */
 input[type="button"], input[type="submit"], input[type="submit"]:hover {
 background: rgba(227, 146, 133, 0.21);
-color: #fff4e6;
+color: #ffe9cc;
 border: 1px solid #000;
 text-shadow: none;
 font-weight: bold;
@@ -27,13 +27,13 @@ border-radius: 5px;
 /* Links */
  
 .table a:link, .table a:active, .table a:visited, .right a:link, .right a:active, .right a:visited, .bottom a:link, .bottom a:active, .bottom a:visited, .topbar a:link, .topbar a:visited, .topbar a:active, a:link, a:visited, a:active {
-color: #fff4e6;
+color: #ffe9cc;
  font-family: Arial;
 }
  
 .table .top a:link, .table .top a:active, .table .top a:visited, .table th a:link, .table th a:active, .table th a:visited {
 border-bottom: 1px solid #000000;
-color: #fff4e6;
+color: #ffe9cc;
  font-family: Arial;
 }
  
@@ -45,14 +45,14 @@ border: 1px solid #000;
 border-bottom-left-radius: 10px;
 border-bottom-right-radius: 10px;
  font-family: Arial;
- color: #fff4e6;
+ color: #ffe9cc;
 }
 
 .badge {
 background: rgba(227, 146, 133, 0.21);
 border: 1px solid #000;
  font-family: Arial;
- color: #fff4e6;
+ color: #ffe9cc;
 }
  
 /* Navigational Bar */
@@ -62,23 +62,23 @@ background: rgba(227, 146, 133, 0.21);
 border: 1px solid #000;
 box-shadow: none;
  font-family: Arial;
- color: #fff4e6;
+ color: #ffe9cc;
 }
  
 .navbar {
 background: rgba(227, 146, 133, 0.21);
 border-bottom: 1px solid #000;
-color: #fff4e6;
+color: #ffe9cc;
  font-family: Arial;
 }
  
 .navbar-default .navbar-nav > li > a {
-color: #fff4e6;
+color: #ffe9cc;
  font-family: Arial;
 }
  
 .navbar-default .navbar-nav li a:hover {
-color: #fff4e6;
+color: #ffe9cc;
 background: #E39285;
 border-left: 1px solid #000;
 border-right: 1px solid #000;
@@ -94,7 +94,7 @@ background: rgba(227, 146, 133, 0.21);
 border: 0px solid #000;
 border-bottom: 1px solid #000;
 border-left: 1px solid #000;
-color: #fff4e6;
+color: #ffe9cc;
  font-family: Arial;
 }
  
@@ -103,7 +103,7 @@ background: rgba(227, 146, 133, 0.21);
 border: 1px solid #000;
 box-shadow: none;  
  font-family: Arial;
- color: #fff4e6;
+ color: #ffe9cc;
 }
  
 .progress-bar {
@@ -117,38 +117,38 @@ border: 1px solid #000;
  font-family: Arial;
 }
  
-.progress div {color: #fff4e6;}
+.progress div {color: #ffe9cc;}
  
 /* Chat */
  
 .chat_light, .chat_dark {
 background: rgba(227, 146, 133, 0.21);
 font-size: 11px;
-color: #fff4e6;
+color: #ffe9cc;
  font-family: Arial;
 }
 
 .chatContainer {
 border: 1px solid #000;
  font-family: Arial;
- color: #fff4e6;
+ color: #ffe9cc;
 }
  
 .userstolen {
 background: none;
  font-family: Arial;
- color: #fff4e6;
+ color: #ffe9cc;
 }
 
 .alert-danger {
-color: #fff4e6;
+color: #ffe9cc;
 background: rgba(227, 146, 133, 0.21);
 border: 1px solid #000;
  font-family: Arial;
 }
 
 .alert-success {
-color: #fff4e6;
+color: #ffe9cc;
 background: rgba(227, 146, 133, 0.21);
 border: 1px solid #000;
  font-family: Arial;
@@ -163,13 +163,13 @@ border: 1px solid #000;
 }
  
 .breadcrumb>.active {
-color: #fff4e6;
+color: #ffe9cc;
  font-family: Arial;
 }
  
 h1 small, h2, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 font-family: "Carter One";
-color: #fff4e6;
+color: #ffe9cc;
  font-family: Arial;
 }
  
@@ -177,7 +177,7 @@ color: #fff4e6;
 background: none;
 border: 0px solid #000;
  font-family: Arial;
- color: #fff4e6;
+ color: #ffe9cc;
 }
  
 /* Tables */
@@ -187,7 +187,7 @@ border-radius: 25px;
 overflow: hidden;
 border: 1px solid #000;
  font-family: Arial;
- color: #fff4e6;
+ color: #ffe9cc;
 }
  
 .table, .item {
@@ -195,34 +195,34 @@ border: 1px solid #000;
 background: rgba(227, 146, 133, 0.21);
 border-collapse: separate;
  font-family: Arial;
- color: #fff4e6;
+ color: #ffe9cc;
 }
 
 .table .right, .table .right_odd {
 background: none;
 border: 0px solid #000;
  font-family: Arial;
- color: #fff4e6;
+ color: #ffe9cc;
 }
 
 div .feature, .cave-grid, div .left, .mound-grid,  .table .bottom,  .table .top, .table th, .item-header, .item-footer {
 border: 0px solid #000;
 background: rgba(227, 146, 133, 0.21);
-color: #fff4e6;
+color: #ffe9cc;
  font-family: Arial;
 }
 
 .cave-grid, div .left, .mound-grid {
 border: 1px solid #000;
 background: #E39285;
-color: #fff4e6;
+color: #ffe9cc;
  font-family: Arial;
 }
 
 .table .left {
 border: 1px solid #000;
 background: rgba(227, 146, 133, 0.21);
-color: #fff4e6;
+color: #ffe9cc;
  font-family: Arial;
 }
 
@@ -231,7 +231,7 @@ background: rgba(227, 146, 133, 0.21);
 border: 1px solid #000;
 border-left: none;
  font-family: Arial;
- color: #fff4e6;
+ color: #ffe9cc;
 }
 
 
